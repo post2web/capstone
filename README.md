@@ -11,3 +11,6 @@ Poster: https://www.slideshare.net/YaoYao44/yelps-review-filtering-algorithm-pos
 Presentation: https://www.slideshare.net/YaoYao44/yelps-review-filtering-algorithm-powerpoint
 
 Paper: 
+
+![2ndplace](https://github.com/post2web/capstone/blob/master/2ndplace.jpeg)
+2nd Place in Best Capstone Poster 
