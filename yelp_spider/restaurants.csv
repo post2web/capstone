@@ -1,0 +1,2230 @@
+,address,city,n_reviews,number_restaurants,rating,restaurant_link,restaurant_name,restaurant_number
+0,"150 W Juana Ave
+San Leandro, CA 94577
+(510) 352-7652",Alameda,372,1827,4.0,https://www.yelp.com/biz/sons-of-liberty-alehouse-san-leandro-4,Sons of Liberty Alehouse,310
+1,"Piedmont Ave, North Oakland
+4001B Piedmont Ave
+Oakland, CA 94611
+(510) 350-7619",Alameda,25,1827,4.0,https://www.yelp.com/biz/belotti-bottega-oakland,Belotti Bottega,510
+2,"East Oakland
+8711 Macarthur Blvd
+Oakland, CA 94605
+(510) 777-9909",Alameda,21,1827,5.0,https://www.yelp.com/biz/corners-cafe-oakland-3,Corners Cafe,710
+3,"Uptown
+Oakland, CA 94612
+(510) 604-6389",Alameda,27,1827,4.5,https://www.yelp.com/biz/sticks-oakland,Sticks,910
+4,"Downtown Oakland
+595 15th St
+Oakland, CA 94612
+(510) 836-3828",Alameda,48,1827,4.0,https://www.yelp.com/biz/annies-deli-oakland,Annie’s Deli,120
+5,"3288 Pierce St
+Richmond, CA 94804
+(510) 508-7354",Albany,138,250,3.5,https://www.yelp.com/biz/hong-kong-snack-house-richmond,Hong Kong Snack House,96
+6,"Located in Pacific East Mall
+(510) 529-4546",Albany,164,250,4.0,https://www.yelp.com/biz/kamza-sushi-palace-richmond,Kamza Sushi Palace,46
+7,"Downtown
+1113 4th St NW
+Albuquerque, NM 87102
+(505) 247-9149",Albuquerque,74,1667,4.0,https://www.yelp.com/biz/the-original-garcias-kitchen-albuquerque,The Original Garcia’s Kitchen,622
+8,"Business Parkway/Academy Acres
+7600 Jefferson St NE
+Albuquerque, NM 87109
+(505) 821-6184",Albuquerque,11,1667,3.5,https://www.yelp.com/biz/twisters-burgers-and-burritos-albuquerque-5,Twisters Burgers and Burritos,822
+9,"Business Parkway/Academy Acres
+7501 Paseo Del Norte Blvd NE
+Albuquerque, NM 87113
+(505) 797-1800",Albuquerque,52,1667,3.0,https://www.yelp.com/biz/marios-pizzeria-and-ristorante-albuquerque-4,Mario’s Pizzeria & Ristorante,32
+10,"Old Town
+1828 Central Ave SW
+Albuquerque, NM 87104
+(505) 842-5507",Albuquerque,426,1667,4.0,https://www.yelp.com/biz/vinaigrette-albuquerque-2,Vinaigrette,232
+11,"North Valley/Los Ranchos
+1050 Rio Grande Blvd NW
+Albuquerque, NM 87104
+(505) 508-2640",Albuquerque,72,1667,3.5,https://www.yelp.com/biz/the-range-caf%C3%A9-albuquerque-6,The Range Café,432
+12,"Pentagon City
+1235 14th Rd S
+Arlington, VA 22202
+(703) 501-0130",Alexandria,6,6991,4.5,https://www.yelp.com/biz/rice-bar-arlington-2,Rice Bar,10
+13,"Del Ray
+1603 Commonwealth Ave
+Alexandria, VA 22301
+(571) 312-0402",Alexandria,138,6991,4.0,https://www.yelp.com/biz/live-oak-restaurant-alexandria,Live Oak Restaurant,210
+14,"600 14th St NW
+Washington, DC 20005
+(202) 787-1000",Alexandria,1858,6991,3.5,https://www.yelp.com/biz/the-hamilton-washington,The Hamilton,410
+15,"Ballston
+4000 Wilson Blvd
+Arlington, VA 22203
+(703) 243-4400",Alexandria,491,6991,3.5,https://www.yelp.com/biz/kapnos-taverna-arlington,Kapnos Taverna,610
+16,"101 Constitution Ave NW
+Washington, DC 20001
+(202) 547-8100",Alexandria,436,6991,4.0,https://www.yelp.com/biz/charlie-palmer-steak-washington,Charlie Palmer Steak,810
+17,"1100 W Commonwealth Ave
+Alhambra, CA 91803
+(626) 300-0153",Alhambra,73,3624,3.5,https://www.yelp.com/biz/mannys-tacos-alhambra,Manny’s Tacos,761
+18,"Pasadena
+975 N Michillinda Ave
+Pasadena, CA 91107
+(626) 836-0111",Alhambra,264,3624,4.0,https://www.yelp.com/biz/colette-pasadena-2,Colette,961
+19,"Pasadena
+6501 Foothill
+Pasadena, CA 91103
+(626) 818-7427",Alhambra,92,3624,4.5,https://www.yelp.com/biz/rodneys-ribs-pasadena,Rodney’s Ribs,171
+20,"111 N Atlantic Blvd
+Monterey Park, CA 91754
+(626) 943-7956",Alhambra,926,3624,4.0,https://www.yelp.com/biz/shin-sen-gumi-yakitori-and-shabu-shabu-monterey-park-monterey-park,Shin-Sen-Gumi Yakitori & Shabu-Shabu-Monterey Park,371
+21,"Highland Park
+5611 N Figueroa St
+Los Angeles, CA 90042
+(323) 204-9397",Alhambra,20,3624,4.0,https://www.yelp.com/biz/homestate-los-angeles-4,HomeState,571
+22,"10450 Beach Blvd
+Stanton, CA 90680
+(714) 952-9848",Anaheim,308,4527,4.0,https://www.yelp.com/biz/mama-ks-kichen-stanton,Mama K’s Kichen,888
+23,"12432 Lampson Ave
+Garden Grove, CA 92840
+(714) 537-6703",Anaheim,37,4527,4.0,https://www.yelp.com/biz/el-tamal-cocina-mexicana-tamales-restaurant-garden-grove,El Tamal Cocina Mexicana - Tamales Restaurant,98
+24,"880 W Lincoln Ave
+Anaheim, CA 92805
+(714) 956-2830",Anaheim,798,4527,4.0,https://www.yelp.com/biz/munch-thai-food-and-sweet-tea-anaheim,Munch Thai Food & Sweet Tea,298
+25,"13011 Newport Ave
+Tustin, CA 92780
+(714) 731-6600",Anaheim,510,4527,4.5,https://www.yelp.com/biz/christakis-greek-cuisine-tustin,Christakis Greek Cuisine,498
+26,"3070 W Chapman Ave
+Orange, CA 92868
+(714) 978-7482",Anaheim,342,4527,3.5,https://www.yelp.com/biz/pita-grill-orange-4,Pita Grill,698
+27,"South University Ann Arbor
+1300 S University Ave
+Ann Arbor, MI 48104
+(734) 222-8080",Ann Arbor,170,779,3.0,https://www.yelp.com/biz/no-thai-ann-arbor,No Thai!,360
+28,"5910 Jackson Rd
+Ann Arbor, MI 48103
+(734) 741-1111",Ann Arbor,28,779,4.0,https://www.yelp.com/biz/culvers-ann-arbor,Culver’s,560
+29,"911 N University Ave
+Ann Arbor, MI 48109
+(734) 769-7400",Ann Arbor,0,779,-1.0,https://www.yelp.com/biz/taco-bell-ann-arbor-4,Taco Bell,760
+30,"505 S Huron St
+Ypsilanti, MI 48197
+(734) 484-4990",Ann Arbor,0,779,-1.0,https://www.yelp.com/biz/krispy-krunchy-chicken-ypsilanti,Krispy Krunchy Chicken,181
+31,"5183 Lee Hwy
+Arlington, VA 22207
+(703) 241-8947",Arlington,150,4746,3.5,https://www.yelp.com/biz/caribbean-grill-arlington,Caribbean Grill,851
+32,"804 V St NW
+Washington, DC 20001
+(202) 627-2277",Arlington,132,4746,3.5,https://www.yelp.com/biz/declaration-washington,Declaration,61
+33,"Crystal City
+2250-A Crystal Dr
+Arlington, VA 22202
+(703) 413-8181",Arlington,760,4746,3.5,https://www.yelp.com/biz/jaleo-arlington,Jaleo,261
+34,"Georgetown
+1210 Potomac St NW
+Washington, DC 20007
+(202) 333-4265",Arlington,243,4746,5.0,https://www.yelp.com/biz/falafel-washington-5,Falafel,461
+35,"Dupont Circle, Downtown
+1815 M St NW
+Washington, DC 20036
+(202) 457-1111",Arlington,667,4746,4.5,https://www.yelp.com/biz/bub-and-pops-washington,Bub and Pop’s,661
+36,"1937 Piedmont Cir NE
+Atlanta, GA 30324
+(678) 974-5155",Atlanta,122,3393,3.0,https://www.yelp.com/biz/atlantis-restaurant-and-lounge-atlanta-3,Atlantis Restaurant & Lounge,951
+37,"Piedmont Ave
+Atlanta, GA 30309",Atlanta,1,3393,5.0,https://www.yelp.com/biz/chicomec%C3%B3atl-atlanta,chicomecóATL,161
+38,"Buckhead
+30 Old Ivy Rd
+Atlanta, GA 30342
+(404) 261-0025",Atlanta,441,3393,4.0,https://www.yelp.com/biz/hals-the-steakhouse-atlanta,Hal’s The Steakhouse,361
+39,"2168 Briarcliff Rd NE
+Atlanta, GA 30329
+(404) 982-0666",Atlanta,351,3393,4.0,https://www.yelp.com/biz/ameers-mediterranean-grill-atlanta,Ameer’s Mediterranean Grill,561
+40,"Buckhead
+3420 Piedmont Rd NE
+Atlanta, GA 30305
+(404) 254-2848",Atlanta,253,3393,4.0,https://www.yelp.com/biz/lovies-bbq-atlanta,Lovies BBQ,761
+41,"East Austin
+Located in The Liberty
+(512) 407-8166",Austin,517,2593,4.0,https://www.yelp.com/biz/east-side-king-austin-15,East Side King,620
+42,"Rosedale
+5000 Burnet Rd
+Austin, TX 78756
+(512) 897-4598",Austin,17,2593,5.0,https://www.yelp.com/biz/titas-austin,Tita’s,820
+43,"8212 Barton Club Dr
+Austin, TX 78798
+(512) 329-4000",Austin,8,2593,3.5,https://www.yelp.com/biz/hill-country-dining-austin,Hill Country Dining,30
+44,"Warehouse District, Downtown
+401 W 2nd St
+Austin, TX 78701
+(512) 494-1500",Austin,1446,2593,4.0,https://www.yelp.com/biz/lamberts-downtown-barbecue-austin,Lamberts Downtown Barbecue,230
+45,"Crestview
+7101-A Woodrow Ave
+Austin, TX 78757
+(512) 467-7402",Austin,1003,2593,4.5,https://www.yelp.com/biz/little-deli-and-pizzeria-austin,Little Deli & Pizzeria,430
+46,"Woodmere
+5421 Reisterstown Rd
+Baltimore, MD 21215
+(410) 764-8055",Baltimore,5,4147,4.5,https://www.yelp.com/biz/peking-court-baltimore-3,Peking Court,73
+47,"Inner Harbor
+600 E Pratt St
+Baltimore, MD 21202
+(410) 528-9292",Baltimore,686,4147,4.0,https://www.yelp.com/biz/fogo-de-chao-brazilian-steakhouse-baltimore-4,Fogo de Chao Brazilian Steakhouse,273
+48,"Little Italy
+901 Fawn St
+Baltimore, MD 21202
+(410) 727-2667",Baltimore,284,4147,3.0,https://www.yelp.com/biz/sabatinos-italian-restaurant-baltimore,Sabatino’s Italian Restaurant,473
+49,"Remington
+300 W 30th St
+Baltimore, MD 21211
+(443) 869-5864",Baltimore,193,4147,3.5,https://www.yelp.com/biz/the-dizz-baltimore,The Dizz,673
+50,"Midtown Belvedere
+1212 Cathedral St
+Baltimore, MD 21201
+(410) 783-8000",Baltimore,13,4147,3.5,https://www.yelp.com/biz/joseph-meyerhoff-symphony-hall-baltimore-2,Joseph Meyerhoff Symphony Hall,873
+51,"White Center
+9602 16th Ave SW
+Seattle, WA 98106
+(206) 453-3531",Bellevue,19,4441,4.5,https://www.yelp.com/biz/brass-knuckle-bistro-seattle,Brass Knuckle Bistro,889
+52,"Central District
+1315 E Jefferson St
+Seattle, WA 98122
+(206) 485-7173",Bellevue,36,4441,4.0,https://www.yelp.com/biz/l-oursin-seattle,L’Oursin,99
+53,"Located in Evans Plaza
+(425) 747-7818",Bellevue,216,4441,4.0,https://www.yelp.com/biz/wibbleys-bellevue,Wibbley’s,299
+54,"Pioneer Square
+116 1st Ave S
+Seattle, WA 98104
+(206) 946-1283",Bellevue,336,4441,4.0,https://www.yelp.com/biz/damn-the-weather-seattle,Damn the Weather,499
+55,"Belltown
+2505 2nd Ave
+Seattle, WA 98121
+(206) 448-2610",Bellevue,144,4441,4.5,https://www.yelp.com/biz/no-anchor-seattle-3,No Anchor,699
+56,"1125 Old Country Rd
+San Carlos, CA 94070
+(408) 921-8148",Belmont,1,440,3.0,https://www.yelp.com/biz/kellys-deli-san-carlos-2,Kelly’s Deli,180
+57,"270 Redwood Shores Pkwy
+Redwood City, CA 94065
+(650) 654-2106",Belmont,4,440,5.0,https://www.yelp.com/biz/shores-cafe-redwood-city,Shores Cafe,380
+58,"39TH Ave
+San Mateo, CA 94403
+(650) 573-2222",Belmont,5,440,3.5,https://www.yelp.com/biz/san-mateo-county-hospital-restaurant-san-mateo,San Mateo County Hospital Restaurant,140
+59,"Piedmont Ave, North Oakland
+4151 Piedmont Ave
+Oakland, CA 94611
+(510) 250-9534",Berkeley,205,2041,4.5,https://www.yelp.com/biz/rnr-sushi-and-bowls-oakland,RnR Sushi & Bowls,689
+60,"357 Grand Ave
+Oakland, CA 94610
+(510) 452-2443",Berkeley,204,2041,4.0,https://www.yelp.com/biz/kinja-sushi-oakland-2,Kinja Sushi,889
+61,"Lakeshore, Lower Hills
+3265 Lakeshore Ave
+Oakland, CA 94610
+(510) 268-8849",Berkeley,1183,2041,4.5,https://www.yelp.com/biz/arizmendi-bakery-oakland,Arizmendi Bakery,99
+62,"Downtown Berkeley
+2136 Center St
+Berkeley, CA 94704
+(510) 990-6576",Berkeley,157,2041,3.5,https://www.yelp.com/biz/chickn-rice-berkeley,Chick’n Rice,299
+63,"2507 Hearst Ave
+Berkeley, CA 94709
+(510) 540-1124",Berkeley,123,2041,3.0,https://www.yelp.com/biz/t-c-garden-restaurant-berkeley,T C Garden Restaurant,499
+64,"9689 Santa Monica Blvd
+Beverly Hills, CA 90210
+(310) 271-3730",Beverly Hills,283,5505,3.5,https://www.yelp.com/biz/the-nosh-of-beverly-hills-beverly-hills,The Nosh Of Beverly Hills,961
+65,"Hollywood
+6363 Yucca St
+Los Angeles, CA 90028
+(323) 848-4643",Beverly Hills,164,5505,4.5,https://www.yelp.com/biz/good-greek-grill-los-angeles-4,Good Greek Grill,171
+66,"9360 Wilshire Blvd
+Beverly Hills, CA 90212
+(310) 388-6860",Beverly Hills,42,5505,4.0,https://www.yelp.com/biz/above-sixty-beverly-hills,Above SIXTY,371
+67,"Sherman Oaks
+14141 Ventura Blvd
+Sherman Oaks, CA 91423
+(818) 205-9744",Beverly Hills,1009,5505,4.5,https://www.yelp.com/biz/mendocino-farms-sherman-oaks,Mendocino Farms,571
+68,"9346 Civic Ctr Dr
+Beverly Hills, CA 90210
+(310) 461-0600",Beverly Hills,60,5505,3.5,https://www.yelp.com/biz/clementine-beverly-hills-2,Clementine,771
+69,"47080 Hwy 1
+Big Sur, CA 93920
+(831) 667-2370",Big Sur,293,11,4.0,https://www.yelp.com/biz/big-sur-roadhouse-big-sur,Big Sur Roadhouse,3
+70,"402 E 4th St
+Bloomington, IN 47408
+(812) 336-2388",Bloomington,3,319,3.5,https://www.yelp.com/biz/my-thai-noodles-bloomington,My Thai Noodles,283
+71,"111 N Rogers St
+Bloomington, IN 47404
+(812) 360-4084",Bloomington,0,319,-1.0,https://www.yelp.com/biz/gerricks-bbq-bloomington,Gerrick’s BBQ,164
+72,"722 N Benjamin Ln
+Boise, ID 83704
+(208) 322-7678",Boise,8,994,3.5,https://www.yelp.com/biz/port-of-subs-boise-2,Port of Subs,731
+73,"10689 W Ustick Rd
+Boise, ID 83713
+(208) 323-1520",Boise,4,994,4.0,https://www.yelp.com/biz/little-caesars-pizza-boise-3,Little Caesars Pizza,931
+74,"1530 S Millennium Way
+Meridian, ID 83642
+(208) 288-0442",Boise,3,994,2.5,https://www.yelp.com/biz/subway-meridian-17,Subway,141
+75,"24th & Fairview Ave
+Boise, ID 83702
+(208) 794-0605",Boise,3,994,3.0,https://www.yelp.com/biz/brown-shuga-soul-food-boise,Brown Shuga Soul Food,341
+76,"7135 W State St
+Boise, ID 84714
+(208) 853-7400",Boise,16,994,4.0,https://www.yelp.com/biz/the-sunrise-cafe-boise-boise,The Sunrise Cafe Boise,541
+77,"737 Huntington Ave
+Boston, MA 02115
+(617) 232-8000",Boston,103,6079,4.5,https://www.yelp.com/biz/laughing-monk-cafe-boston,Laughing Monk Cafe,466
+78,"Downtown
+49 Franklin St
+Boston, MA 02110
+(857) 350-4606",Boston,171,6079,4.5,https://www.yelp.com/biz/bonapita-boston-2,Bonapita,666
+79,"Back Bay
+800 Boylston St
+Boston, MA 02199
+(617) 276-1001",Boston,27,6079,4.0,https://www.yelp.com/biz/dig-inn-boston-4,Dig Inn,866
+80,"Back Bay
+131 Dartmouth St
+Boston, MA 02116
+(617) 424-5252",Boston,294,6079,3.5,https://www.yelp.com/biz/b-good-boston,B Good,76
+81,"Back Bay
+66 Hereford St
+Boston, MA 02115
+(857) 310-5194",Boston,309,6079,4.0,https://www.yelp.com/biz/santouka-back-bay-boston-2,Santouka Back Bay,276
+82,"North Denver 'burbs
+Lafayette, CO 80026
+(720) 338-9641",Boulder,18,1071,4.0,https://www.yelp.com/biz/suburban-wiener-lafayette,Suburban Wiener,586
+83,"4550 Broadway St
+Boulder, CO 80304
+(720) 406-7462",Boulder,8,1071,2.5,https://www.yelp.com/biz/subway-boulder-2,Subway,786
+84,"1100 Ken Pratt Blvd
+Longmont, CO 80501
+(303) 772-9090",Boulder,10,1071,4.0,https://www.yelp.com/biz/great-harvest-bread-longmont-2,Great Harvest Bread,986
+85,"7960 Niwot Rd
+Niwot, CO 80503
+(303) 652-6474",Boulder,0,1071,-1.0,https://www.yelp.com/biz/subway-niwot,Subway,196
+86,"1325 Broadway St
+Boulder, CO 80302
+(303) 447-1133",Boulder,97,1071,4.0,https://www.yelp.com/biz/cosmos-pizza-boulder,Cosmo’s Pizza,396
+87,"Brookline Village
+22 Harvard St
+Brookline, MA 02445
+(617) 232-9505",Brookline,411,3880,4.0,https://www.yelp.com/biz/orinoco-brookline,Orinoco,218
+88,"Kendall Square/MIT
+1 Kendall Sq
+Cambridge, MA 02139
+(617) 577-7427",Brookline,388,3880,4.0,https://www.yelp.com/biz/the-smoke-shop-cambridge-2,The Smoke Shop,418
+89,"Allston/Brighton
+270 Western Ave
+Allston, MA 02134
+(617) 783-1212",Brookline,540,3880,4.0,https://www.yelp.com/biz/the-breakfast-club-allston,The Breakfast Club,618
+90,"185 Crescent St
+Waltham, MA 02453
+(781) 788-8807",Brookline,88,3880,4.0,https://www.yelp.com/biz/brelundi-ristorante-waltham-2,Brelundi Ristorante,818
+91,"Central Square
+912 Massachusetts Ave
+Cambridge, MA 02139
+(617) 576-0032",Brookline,301,3880,4.0,https://www.yelp.com/biz/the-plough-and-stars-cambridge,The Plough & Stars,28
+92,"Crown Heights
+638 Park Pl
+Brooklyn, NY 11238
+(718) 398-8100",Brooklyn,224,13075,4.5,https://www.yelp.com/biz/silver-rice-brooklyn,Silver Rice,754
+93,"East Williamsburg
+251 Bushwick Ave
+Brooklyn, NY 11206
+(347) 770-7217",Brooklyn,80,13075,4.5,https://www.yelp.com/biz/the-topaz-brooklyn-2,The Topaz,954
+94,"East Village
+29 E 2nd St
+New York, NY 10003
+(212) 335-0114",Brooklyn,468,13075,4.0,https://www.yelp.com/biz/rosies-new-york-2,Rosie’s,164
+95,"Crown Heights
+1433 Bedford Ave
+Brooklyn, NY 11216
+(347) 305-3233",Brooklyn,565,13075,4.0,https://www.yelp.com/biz/catfish-brooklyn-2,Catfish,364
+96,"Bensonhurst
+2325 65th St
+Brooklyn, NY 11204
+(347) 587-6302",Brooklyn,100,13075,4.0,https://www.yelp.com/biz/together-brooklyn-2,Together,564
+97,"Atwater Village
+3216 Glendale Blvd
+Los Angeles, CA 90039
+(323) 644-0605",Burbank,366,2972,4.0,https://www.yelp.com/biz/atwater-village-tavern-los-angeles,Atwater Village Tavern,66
+98,"Burbank
+101 N Victory Blvd
+Burbank, CA 91502
+(818) 840-8805",Burbank,189,2972,4.5,https://www.yelp.com/biz/rafos-cafe-burbank,Rafo’s Cafe,266
+99,"North Hollywood
+4929 Lankershim Blvd
+North Hollywood, CA 91601
+(818) 505-1033",Burbank,219,2972,4.5,https://www.yelp.com/biz/dog-haus-north-hollywood,Dog Haus,466
+100,"Glendale
+230 N Brand Blvd
+Glendale, CA 91203
+(818) 956-5888",Burbank,516,2972,4.0,https://www.yelp.com/biz/lolas-peruvian-restaurant-glendale,Lola’s Peruvian Restaurant,666
+101,"Hollywood
+6510 Hollywood Blvd
+Los Angeles, CA 90028
+(323) 406-9786",Burbank,135,2972,4.5,https://www.yelp.com/biz/ds-dubai-sauce-los-angeles-5,D’s Dubai Sauce,866
+102,"580 Shelburne Rd
+Burlington, VT 05403
+(802) 862-2600",Burlington,1,358,4.0,https://www.yelp.com/biz/subway-burlington-16,Subway,124
+103,"101 Main St
+Burlington, VT 05401
+(802) 951-0099",Burlington,4,358,3.5,https://www.yelp.com/biz/armory-grille-and-bar-burlington,Armory Grille & Bar,324
+104,"Cannonborough
+221 Coming St
+Charleston, SC 29403
+(843) 695-7252",Charleston,154,1434,4.5,https://www.yelp.com/biz/tapio-a-boba-tea-cafe-charleston-3,Tapio - A Boba Tea Cafe,459
+105,"West Ashley
+1729 Sam Rittenberg Blvd
+Charleston, SC 29407
+(843) 207-4646",Charleston,3,1434,2.0,https://www.yelp.com/biz/nikos-gyros-and-wings-charleston,Niko’s Gyros & Wings,659
+106,"115 Pitt St
+Mount Pleasant, SC 29464
+(843) 352-9728",Charleston,6,1434,5.0,https://www.yelp.com/biz/rudis-old-village-wine-shop-mount-pleasant,Rudi’s Old Village Wine Shop,859
+107,"2938 Spruill Ave
+N Charleston, SC 29405
+(843) 744-5061",Charleston,2,1434,4.5,https://www.yelp.com/biz/chinese-deli-n-charleston,Chinese Deli,69
+108,"863 Houston Northcutt Blvd
+Mount Pleasant, SC 29464
+(843) 606-2493",Charleston,432,1434,4.5,https://www.yelp.com/biz/graze-mount-pleasant,Graze,269
+109,"Starmount
+624 Tyvola Rd 101
+Charlotte, NC 28217
+(980) 225-7203",Charlotte,23,1716,2.0,https://www.yelp.com/biz/wingstop-charlotte-8,Wingstop,113
+110,"South End, Dilworth
+235 W Tremont Ave
+Charlotte, NC 28203",Charlotte,20,1716,4.0,https://www.yelp.com/biz/bang-bang-bites-charlotte,Bang Bang Bites,313
+111,"Elizabeth
+116 Middleton Dr
+Charlotte, NC 28207
+(704) 344-0100",Charlotte,111,1716,4.0,https://www.yelp.com/biz/zio-casual-italian-charlotte,Zio Casual Italian,513
+112,"Elizabeth
+116 Middleton Dr
+Charlotte, NC 28207
+(704) 334-3346",Charlotte,3,1716,4.5,https://www.yelp.com/biz/primo-prime-charlotte-3,Primo Prime,713
+113,"Uptown
+312 S Tryon St
+Charlotte, NC 28202",Charlotte,17,1716,4.0,https://www.yelp.com/biz/socal-taco-stand-charlotte,SoCal Taco Stand,913
+114,"Greektown, West Loop, Near West Side
+810 W Jackson Blvd
+Chicago, IL 60607
+(312) 985-8818",Chicago,26,6947,4.5,https://www.yelp.com/biz/wj-noodles-chicago,WJ Noodles,300
+115,"West Town, Wicker Park
+2100 W Division St
+Chicago, IL 60622
+(773) 292-1600",Chicago,583,6947,4.0,https://www.yelp.com/biz/folklore-argentine-grill-chicago,Folklore Argentine Grill,500
+116,"The Loop
+125 S Clark St
+Chicago, IL 60603
+(773) 999-9411",Chicago,294,6947,4.0,https://www.yelp.com/biz/revival-food-hall-chicago,Revival Food Hall,700
+117,"The Loop
+120 W Monroe St
+Chicago, IL 60603
+(312) 801-8899",Chicago,120,6947,3.5,https://www.yelp.com/biz/steadfast-chicago-2,Steadfast,900
+118,"Near North Side
+59 W Grand Ave
+Chicago, IL 60654
+(312) 645-9500",Chicago,1200,6947,3.5,https://www.yelp.com/biz/india-house-restaurant-chicago-2,India House Restaurant,110
+119,"Evanston
+2444 Madison Rd
+Cincinnati, OH 45208
+(513) 321-6088",Cincinnati,98,1645,4.0,https://www.yelp.com/biz/oriental-wok-cincinnati,Oriental Wok,610
+120,"Downtown
+328 E 4th St
+Cincinnati, OH 45202
+(513) 721-5637",Cincinnati,22,1645,3.0,https://www.yelp.com/biz/burrito-joes-cincinnati,Burrito Joe’s,810
+121,"2949 Dixie Hwy
+Crestview Hills, KY 41017
+(859) 341-2555",Cincinnati,82,1645,4.5,https://www.yelp.com/biz/deweys-pizza-crestview-hills,Dewey’s Pizza,20
+122,"Over-the-Rhine
+1401 Republic St
+Cincinnati, OH 45202
+(513) 621-7000",Cincinnati,211,1645,4.5,https://www.yelp.com/biz/salazar-cincinnati,Salazar,220
+123,"Mt. Adams
+1051 Saint Gregory St
+Cincinnati, OH 45202",Cincinnati,236,1645,3.0,https://www.yelp.com/biz/teak-thai-cuisine-cincinnati,Teak Thai Cuisine,420
+124,"14401 Harvard Ave
+Cleveland, OH 44128
+(216) 751-0485",Cleveland,3,1838,4.5,https://www.yelp.com/biz/takeover-restaurant-cleveland,Takeover Restaurant,473
+125,"Tremont
+2193 Professor Ave
+Cleveland, OH 44113
+(216) 771-0515",Cleveland,16,1838,3.5,https://www.yelp.com/biz/tonys-southside-pizza-cleveland,Tony’s Southside Pizza,673
+126,"Cascade Crossing
+5030 Tiedeman Rd
+Brooklyn, OH 44144
+(216) 898-5790",Cleveland,59,1838,3.5,https://www.yelp.com/biz/carrabbas-italian-grill-brooklyn-2,Carrabba’s Italian Grill,873
+127,"Ridge & Memphis
+6815 Memphis Ave
+Cleveland, OH 44144
+(216) 741-2346",Cleveland,3,1838,3.5,https://www.yelp.com/biz/mcgs-pub-and-grub-cleveland,McG’s Pub and Grub,83
+128,"Detroit-Shoreway
+6605 Detroit Ave
+Cleveland, OH 44102
+(216) 920-0600",Cleveland,264,1838,4.0,https://www.yelp.com/biz/luxe-kitchen-and-lounge-cleveland,Luxe Kitchen & Lounge,283
+129,"4860 W Broad St
+Columbus, OH 43228
+(614) 878-9960",Columbus,18,2177,4.0,https://www.yelp.com/biz/new-fortune-china-columbus,New Fortune China,137
+130,"Easton
+4000 Stelzer Rd
+Columbus, OH 43219
+(614) 476-8348",Columbus,124,2177,3.5,https://www.yelp.com/biz/j-alexanders-restaurant-columbus-3,J. Alexander’s Restaurant,337
+131,"2285 W Dublin Granville Rd
+Worthington, OH 43085
+(614) 987-7999",Columbus,12,2177,4.0,https://www.yelp.com/biz/tomatillos-authentic-mexican-worthington,Tomatillos Authentic Mexican,537
+132,"University District
+1571 N 4th St
+Columbus, OH 43201
+(614) 291-5598",Columbus,16,2177,4.5,https://www.yelp.com/biz/oldfields-north-fourth-tavern-columbus,Oldfield’s North Fourth Tavern,737
+133,"Olde Towne East
+1117 Oak St
+Columbus, OH 43205
+(614) 398-2906",Columbus,8,2177,4.5,https://www.yelp.com/biz/kickin-chicken-mobile-columbus-3,Kickin Chicken Mobile,937
+134,"1841 Willow Pass Rd
+Concord, CA 94520
+(925) 276-0028",Concord,33,1389,3.0,https://www.yelp.com/biz/mariscos-la-playita-concord,Mariscos La Playita,544
+135,"1 Sunvalley Mall
+Concord, CA 94520
+(925) 825-2042",Concord,10,1389,3.0,https://www.yelp.com/biz/sunvalley-food-court-concord,Sunvalley Food Court,744
+136,"1385C N Main St
+Walnut Creek, CA 94596
+(925) 482-0860",Concord,40,1389,3.5,https://www.yelp.com/biz/t4-and-poke-walnut-creek,T4 And Poke,944
+137,"700 Benicia Rd
+Vallejo, CA 94591
+(707) 643-9149",Concord,71,1389,3.5,https://www.yelp.com/biz/maggies-hamburgers-vallejo-2,Maggie’s Hamburgers,154
+138,"Concord, CA 94518
+(925) 818-6861",Concord,74,1389,4.0,https://www.yelp.com/biz/ceviche-and-co-concord,Ceviche & Co,354
+139,"3850 Barranca Pkwy
+Irvine, CA 92606
+(949) 679-6913",Costa Mesa,121,2938,3.0,https://www.yelp.com/biz/inchins-bamboo-garden-irvine,Inchin’s Bamboo Garden,46
+140,"1534 Adams Ave
+Costa Mesa, CA 92626
+(714) 852-3734",Costa Mesa,425,2938,3.5,https://www.yelp.com/biz/bonchon-costa-mesa-3,Bonchon,246
+141,"925 W Warner Ave
+Santa Ana, CA 92707
+(714) 884-4073",Costa Mesa,878,2938,4.5,https://www.yelp.com/biz/taqueria-el-zamorano-santa-ana,Taqueria El Zamorano,446
+142,"324 W 4th St
+Santa Ana, CA 92701
+(714) 204-0519",Costa Mesa,210,2938,4.5,https://www.yelp.com/biz/the-barrel-room-santa-ana,The Barrel Room,646
+143,"6710 W Coast Hwy
+Newport Beach, CA 92663
+(949) 548-7025",Costa Mesa,92,2938,4.5,https://www.yelp.com/biz/newport-beach-corner-cafe-and-market-newport-beach,Newport Beach Corner Cafe and Market,846
+144,"Venice
+3205 Washington Blvd
+Marina del Rey, CA 90292
+(310) 439-8264",Culver City,436,5063,3.5,https://www.yelp.com/biz/firestone-walker-the-propagator-marina-del-rey,Firestone Walker The Propagator,607
+145,"714 Montana Ave
+Santa Monica, CA 90403
+(310) 395-6619",Culver City,54,5063,4.5,https://www.yelp.com/biz/osteria-bigoli-santa-monica,Osteria Bigoli,807
+146,"Palms
+8985 Venice Blvd
+Los Angeles, CA 90034
+(424) 345-9282",Culver City,245,5063,4.5,https://www.yelp.com/biz/mod-pizza-los-angeles-2,MOD Pizza,17
+147,"Culver City
+4410 Sepulveda Blvd
+Culver City, CA 90230
+(310) 398-9000",Culver City,92,5063,4.0,https://www.yelp.com/biz/harajuku-taproom-culver-city-5,Harajuku Taproom,217
+148,"Culver City
+9426 Washington Blvd
+Culver City, CA 90232
+(310) 280-9355",Culver City,159,5063,3.5,https://www.yelp.com/biz/make-out-culver-city,Make Out,417
+149,"1655 S De Anza Blvd
+Cupertino, CA 95014
+(408) 252-7141",Cupertino,97,1667,4.0,https://www.yelp.com/biz/coach-house-wine-and-spirits-cupertino,Coach House Wine & Spirits,706
+150,"357 Castro St
+Mountain View, CA 94041
+(650) 965-2000",Cupertino,1233,1667,3.5,https://www.yelp.com/biz/sakoon-mountain-view-3,Sakoon,906
+151,"Santa Clara, CA 95014
+(408) 479-5530",Cupertino,22,1667,4.0,https://www.yelp.com/biz/dil-se-eatery-santa-clara-2,Dil Se Eatery,116
+152,"1241 W El Camino Real
+Sunnyvale, CA 94086
+(650) 988-6630",Cupertino,449,1667,4.0,https://www.yelp.com/biz/starbird-sunnyvale-2,Starbird,316
+153,"388 Main St
+Los Altos, CA 94022
+(650) 949-2300",Cupertino,288,1667,4.0,https://www.yelp.com/biz/aldo-los-altos-los-altos,Aldo Los Altos,516
+154,"North Dallas
+10720 Preston Rd
+Dallas, TX 75230
+(214) 891-9979",Dallas,142,3246,4.0,https://www.yelp.com/biz/fish-city-grill-dallas-2,Fish City Grill,744
+155,"Upper Greenville
+5500 Greenville Ave
+Dallas, TX 75206
+(214) 265-8044",Dallas,99,3246,3.5,https://www.yelp.com/biz/texadelphia-dallas-2,Texadelphia,944
+156,"2909 Irving Blvd
+Dallas, TX 75247
+(972) 308-6698",Dallas,27,3246,3.5,https://www.yelp.com/biz/taqueria-taxco-3-dallas,Taqueria Taxco 3,154
+157,"Lower Greenville
+2817 Greenville Ave
+Dallas, TX 75206
+(214) 888-0158",Dallas,145,3246,4.0,https://www.yelp.com/biz/slaters-50-50-dallas,Slater’s 50/50,354
+158,"Downtown
+333 S Harwood St
+Dallas, TX 75201
+(469) 899-7904",Dallas,29,3246,4.0,https://www.yelp.com/biz/harwood-tavern-dallas,Harwood Tavern,554
+159,"Outer Sunset
+2146 Irving St
+San Francisco, CA 94122
+(415) 968-9933",Daly City,151,2235,4.0,https://www.yelp.com/biz/sushi-uma-san-francisco,Sushi Uma,199
+160,"Outer Mission, Mission Terrace
+296 Ocean Ave
+San Francisco, CA 94112
+(415) 769-5328",Daly City,384,2235,4.0,https://www.yelp.com/biz/pineapples-san-francisco,Pineapples,399
+161,"Outer Sunset
+3815 Noriega St
+San Francisco, CA 94122
+(415) 379-4459",Daly City,120,2235,4.5,https://www.yelp.com/biz/yonkers-cafe-san-francisco,Yonkers Cafe,599
+162,"Parkmerced
+1600 Holloway Ave
+San Francisco, CA 94132",Daly City,33,2235,4.5,https://www.yelp.com/biz/shahs-halal-food-san-francisco,Shah’s Halal Food,799
+163,"1966 Francisco Blvd
+Pacifica, CA 94044
+(650) 355-1678",Daly City,282,2235,3.5,https://www.yelp.com/biz/pacifica-thai-cuisine-pacifica,Pacifica Thai Cuisine,9
+164,"2710 East 5th St
+Davis, CA 95618
+(530) 758-1331",Davis,267,198,4.0,https://www.yelp.com/biz/konditorei-austrian-pastry-cafe-davis,Konditorei Austrian Pastry Cafe,68
+165,"Northwest, Highland
+3400 Osage St
+Denver, CO 80211
+(303) 284-6342",Denver,144,3190,4.0,https://www.yelp.com/biz/kobe-an-lohi-denver-5,Kobe An LoHi,793
+166,"Five Points, Northwest
+908 30th St
+Denver, CO 80205
+(303) 295-2404",Denver,54,3190,4.0,https://www.yelp.com/biz/curtis-park-creamery-denver,Curtis Park Creamery,3
+167,"Northwest, Highland
+1600 W 33rd Ave
+Denver, CO 80211
+(303) 993-4200",Denver,2723,3190,4.5,https://www.yelp.com/biz/root-down-denver,Root Down,203
+168,"Capitol Hill, Southwest
+208 E 7th Ave
+Denver, CO 80203
+(303) 832-8008",Denver,101,3190,4.5,https://www.yelp.com/biz/sushi-cup-denver-2,Sushi Cup,403
+169,"Southwest
+1380 S Broadway
+Denver, CO 80210
+(720) 379-3131",Denver,40,3190,5.0,https://www.yelp.com/biz/cluck-chicken-denver,Cluck Chicken,603
+170,"2100 Michigan Ave
+Detroit, MI 48216
+(313) 242-0770",Detroit,380,2289,3.5,https://www.yelp.com/biz/gold-cash-gold-detroit,Gold Cash Gold,221
+171,"Midtown, Cass Corridor
+4620 Cass Ave
+Detroit, MI 48201
+(313) 831-1400",Detroit,229,2289,3.5,https://www.yelp.com/biz/cass-cafe-detroit,Cass Cafe,421
+172,"15563 Schoolcraft Ave
+Detroit, MI 48227
+(313) 270-7001",Detroit,3,2289,5.0,https://www.yelp.com/biz/burger-grille-detroit,Burger Grille,621
+173,"11395 McNichols E
+Detroit, MI 48234
+(313) 245-4500",Detroit,2,2289,4.0,https://www.yelp.com/biz/all-seas-fish-detroit,All Seas Fish,821
+174,"2140 Hilton Rd
+Ferndale, MI 48220
+(248) 545-5861",Detroit,28,2289,4.0,https://www.yelp.com/biz/warrilows-bar-ferndale,Warrilow’s Bar,31
+175,"5424 Sunol Blvd
+Pleasanton, CA 94566
+(925) 846-3222",Dublin,59,557,3.0,https://www.yelp.com/biz/mountain-mikes-pizza-pleasanton,Mountain Mike’s Pizza,121
+176,"7350 Dublin Blvd
+Dublin, CA 94568
+(925) 875-1500",Dublin,219,557,3.5,https://www.yelp.com/biz/rigatonis-dublin,Rigatoni’s,321
+177,"6700 Santa Rita Rd
+Pleasanton, CA 94588
+(925) 225-0186",Dublin,110,557,3.5,https://www.yelp.com/biz/taqueria-el-gallo-pleasanton,Taqueria El Gallo,521
+178,"2107 E Hwy 54
+Durham, NC 27713
+(919) 361-2728",Durham,45,832,1.5,https://www.yelp.com/biz/pizza-hut-durham-4,Pizza Hut,94
+179,"4711 Hope Valley Rd
+Durham, NC 27707
+(919) 493-7748",Durham,108,832,4.5,https://www.yelp.com/biz/yamazushi-japanese-cuisine-durham,Yamazushi Japanese Cuisine,294
+180,"Serving Durham and the Surrounding Area
+(919) 666-7581",Durham,11,832,4.0,https://www.yelp.com/biz/crispy-gyoza-durham-2,Crispy Gyoza,494
+181,"2009 Guess Rd
+Durham, NC 27705
+(919) 286-9200",Durham,8,832,3.5,https://www.yelp.com/biz/the-dog-house-durham-6,The Dog House,694
+182,"Terminal 2
+Morrisville, NC 27560",Durham,18,832,3.0,https://www.yelp.com/biz/brueggers-bagels-morrisville-2,Bruegger’s Bagels,62
+183,"1841 Euclid Ave
+Berkeley, CA 94709
+(510) 549-1460",Emeryville,206,1435,3.5,https://www.yelp.com/biz/celias-mexican-restaurant-berkeley-3,Celia’s Mexican Restaurant,47
+184,"5959 Shellmound St
+Emeryville, CA 94608
+(510) 808-5073",Emeryville,153,1435,3.5,https://www.yelp.com/biz/paradita-eatery-emeryville-2,Paradita Eatery,247
+185,"West Berkeley
+1255 University Ave
+Berkeley, CA 94702
+(510) 845-5898",Emeryville,936,1435,4.0,https://www.yelp.com/biz/la-mission-berkeley,La Mission,447
+186,"Uptown
+408 22nd St
+Oakland, CA 94612
+(510) 465-7892",Emeryville,200,1435,4.0,https://www.yelp.com/biz/suya-african-caribbean-grill-oakland,Suya African-Caribbean Grill,647
+187,"West Berkeley
+2517 Sacramento St
+Berkeley, CA 94702
+(510) 704-8500",Emeryville,156,1435,4.0,https://www.yelp.com/biz/mo-joe-cafe-berkeley-2,Mo’ Joe Cafe,847
+188,"North Park
+6320 N Lincoln Ave
+Chicago, IL 60659
+(773) 293-6210",Evanston,84,1282,3.5,https://www.yelp.com/biz/bacolod-chicken-haus-chicago,Bacolod Chicken Haus,793
+189,"West Rogers Park
+2241 W Devon Ave
+Chicago, IL 60659
+(773) 262-7676",Evanston,45,1282,3.0,https://www.yelp.com/biz/naan-on-devon-and-grill-chicago-2,Naan on Devon & GRILL,3
+190,"1622 Orrington Ave
+Evanston, IL 60201
+(847) 733-8424",Evanston,135,1282,4.5,https://www.yelp.com/biz/nakorn-evanston,NaKorn,203
+191,"Edgewater
+5938 N Broadway
+Chicago, IL 60660
+(773) 654-1444",Evanston,352,1282,3.5,https://www.yelp.com/biz/the-growling-rabbit-chicago-2,The Growling Rabbit,403
+192,"Edgewater
+1039 W Bryn Mawr Ave
+Chicago, IL 60660
+(773) 506-9261",Evanston,300,1282,4.0,https://www.yelp.com/biz/francescas-bryn-mawr-chicago-3,Francesca’s Bryn Mawr,603
+193,"Glendale
+8402 Cooper Ave
+Glendale, NY 11385
+(718) 894-9800",Flushing,37,19202,4.0,https://www.yelp.com/biz/biagios-trattoria-glendale,Biagio’s Trattoria,466
+194,"Downtown Flushing, Flushing
+135-02 Roosevelt Ave
+Flushing, NY 11354
+(718) 961-2322",Flushing,769,19202,4.0,https://www.yelp.com/biz/white-bear-flushing,White Bear,666
+195,"Jamaica
+11333 Farmers Blvd
+Saint Albans, NY 11412
+(718) 465-9812",Flushing,48,19202,4.0,https://www.yelp.com/biz/maxines-on-the-boulevard-saint-albans,Maxine’s on the Boulevard,866
+196,"Astoria
+37-06 30th Ave
+Astoria, NY 11103
+(718) 274-3647",Flushing,332,19202,4.0,https://www.yelp.com/biz/new-york-dog-house-astoria,New York Dog House,76
+197,"Downtown Flushing, Flushing
+133-42 39th Ave
+Flushing, NY 11354
+(718) 358-9333",Flushing,550,19202,4.0,https://www.yelp.com/biz/the-coop-flushing,The Coop,276
+198,"618 NW 9th Ave
+Fort Lauderdale, FL 33311
+(954) 530-5573",Fort Lauderdale,1,4853,5.0,https://www.yelp.com/biz/papas-soul-food-fort-lauderdale,Papa’s Soul Food,676
+199,"827 E Oakland Park Blvd
+Oakland Park, FL 33334
+(954) 488-9095",Fort Lauderdale,15,4853,4.0,https://www.yelp.com/biz/lalo-and-jenns-kitchen-oakland-park,Lalo & Jenn’s Kitchen,876
+200,"6045 NW 31st Ave
+Fort Lauderdale, FL 33309
+(954) 977-4303",Fort Lauderdale,41,4853,3.5,https://www.yelp.com/biz/jj-cafe-fort-lauderdale,JJ Cafe,86
+201,"721 E Las Olas Blvd
+Fort Lauderdale, FL 33301
+(954) 764-7005",Fort Lauderdale,424,4853,3.5,https://www.yelp.com/biz/american-social-fort-lauderdale-4,American Social,286
+202,"2430 NE 13th Ave
+Wilton Manors, FL 33305
+(754) 200-5285",Fort Lauderdale,166,4853,4.5,https://www.yelp.com/biz/voo-la-voo-cafe-wilton-manors-2,Voo La Voo Cafe,486
+203,"889 Ralston Ave
+Belmont, CA 94002
+(650) 508-8600",Foster City,195,321,3.0,https://www.yelp.com/biz/yama-sushi-restaurant-belmont,Yama Sushi Restaurant,71
+204,"1855 S Norfolk St
+San Mateo, CA 94403
+(650) 349-1845",Foster City,147,321,3.5,https://www.yelp.com/biz/top-of-the-market-san-mateo-3,Top of The Market,271
+205,"196 Ranch Dr
+Milpitas, CA 95035
+(408) 262-0844",Fremont,518,3316,4.0,https://www.yelp.com/biz/taqueria-los-cunados-milpitas,Taqueria Los Cunados,39
+206,"6016 Stevenson Blvd
+Fremont, CA 94538
+(510) 709-1196",Fremont,218,3316,3.0,https://www.yelp.com/biz/i-shanghai-delight-fremont,I-Shanghai Delight,239
+207,"North Valley
+1628 Hostetter Rd
+San Jose, CA 95131
+(408) 477-2773",Fremont,4826,3316,4.0,https://www.yelp.com/biz/gen-korean-bbq-house-san-jose,Gen Korean BBQ House,439
+208,"5720 Mowry School Rd
+Newark, CA 94560
+(510) 445-1602",Fremont,485,3316,3.0,https://www.yelp.com/biz/isla-restaurant-newark,Isla Restaurant,639
+210,"3905 SW Archer Rd
+Gainesville, FL 32608
+(352) 372-0031",Gainesville,6,549,3.0,https://www.yelp.com/biz/burger-king-gainesville-13,Burger King,72
+211,"808 W University Ave
+Gainesville, FL 32601
+(352) 505-0162",Gainesville,112,549,3.5,https://www.yelp.com/biz/faith-vietnamese-gainesville,Faith Vietnamese,272
+212,"3625 SW 13th St
+Gainesville, FL 32608
+(352) 336-1839",Gainesville,53,549,2.5,https://www.yelp.com/biz/ihop-gainesville-3,IHOP,472
+213,"Los Feliz
+1757 N Vermont Ave
+Los Angeles, CA 90027
+(323) 662-5900",Glendale,829,11926,4.0,https://www.yelp.com/biz/il-capriccio-on-vermont-los-angeles,Il Capriccio on Vermont,659
+214,"Little Tokyo, Downtown
+432 E 2nd St
+Los Angeles, CA 90012
+(213) 265-7003",Glendale,386,11926,4.5,https://www.yelp.com/biz/pasta-e-pasta-by-allegro-los-angeles-2,PASTA e PASTA by Allegro,859
+215,"Downtown
+400 W 8th St
+Los Angeles, CA 90014
+(213) 213-5307",Glendale,55,11926,3.5,https://www.yelp.com/biz/shake-shack-los-angeles-7,Shake Shack,69
+216,"Glendale
+902 E Colorado St
+Glendale, CA 91205
+(818) 245-6863",Glendale,184,11926,4.5,https://www.yelp.com/biz/massif-mediterranean-grill-glendale,Massif Mediterranean Grill,269
+217,"Glendale
+102 Caruso Ave
+Glendale, CA 91210
+(818) 502-9922",Glendale,280,11926,4.0,https://www.yelp.com/biz/bar-verde-glendale,Bar Verde,469
+218,"Downtown
+800 Main St
+Hartford, CT 06103
+(860) 338-9486",Hartford,5,914,3.0,https://www.yelp.com/biz/teriyaki-mania-hartford,Teriyaki Mania,678
+219,"Downtown
+942 Main St
+Hartford, CT 06103
+(860) 244-2511",Hartford,1,914,1.0,https://www.yelp.com/biz/siagon-kitchen-hartford,Siagon Kitchen,878
+220,"924 Farmington Ave
+West Hartford, CT 06107
+(866) 666-6520",Hartford,0,914,-1.0,https://www.yelp.com/biz/chinese-cultural-exchange-west-hartford,Chinese Cultural Exchange,164
+221,"South Green
+297 Washington St
+Hartford, CT 06106
+(860) 527-7764",Hartford,71,914,3.5,https://www.yelp.com/biz/j-restaurant-bar-hartford,J Restaurant/Bar,364
+222,"39 New London Tpke
+Glastonbury, CT 06033
+(860) 659-2568",Hartford,118,914,4.0,https://www.yelp.com/biz/min-ghung-glastonbury,Min Ghung,564
+223,"3015 Hopyard Rd
+Pleasanton, CA 94588
+(925) 426-5500",Hayward,450,3596,4.0,https://www.yelp.com/biz/bills-caf%C3%A9-pleasanton-3,Bill’s Café,4
+224,"24973 Santa Clara St
+Hayward, CA 94544
+(510) 782-6650",Hayward,205,3596,4.5,https://www.yelp.com/biz/annar-afghan-cuisine-hayward,Annar Afghan Cuisine,204
+225,"Old Oakland
+827 Washington St
+Oakland, CA 94607
+(510) 272-9110",Hayward,580,3596,4.0,https://www.yelp.com/biz/district-oakland-oakland,District Oakland,404
+226,"374 Jackson St
+Hayward, CA 94544
+(510) 363-2927",Hayward,32,3596,4.0,https://www.yelp.com/biz/tacos-el-amigo-hayward,Tacos El Amigo,604
+227,"8937 San Ramon Rd
+Dublin, CA 94568
+(925) 557-7453",Hayward,207,3596,4.0,https://www.yelp.com/biz/biryani-bowl-dublin-dublin-4,Biryani Bowl - Dublin,804
+228,"8931 Brooks Rd S
+Windsor, CA 95492
+(707) 836-0642",Healdsburg,77,111,2.0,https://www.yelp.com/biz/applebees-grill-bar-windsor,Applebee’s Grill + Bar,71
+229,"614 Cooke St
+Honolulu, HI 96813
+(808) 597-8195",Honolulu,109,3026,3.5,https://www.yelp.com/biz/karens-kitchen-honolulu,Karen’s Kitchen,100
+230,"3446 Waialae Ave
+Honolulu, HI 96816
+(808) 734-2737",Honolulu,212,3026,4.5,https://www.yelp.com/biz/caf%C3%A9-miro-honolulu-2,Café Miro,300
+231,"Located in Hawaii Kai Golf Course
+(808) 395-2358",Honolulu,21,3026,4.0,https://www.yelp.com/biz/lighthouse-restaurant-honolulu-2,Lighthouse Restaurant,500
+232,"Kalihi
+1111 Dillingham Blvd
+Honolulu, HI 96817
+(808) 843-8561",Honolulu,85,3026,4.0,https://www.yelp.com/biz/brick-oven-pizza-honolulu,Brick Oven Pizza,700
+233,"Downtown
+1111 Bishop St
+Honolulu, HI 96813
+(808) 202-4920",Honolulu,17,3026,4.0,https://www.yelp.com/biz/mamis-empanadas-honolulu-6,Mami’s Empanadas,900
+234,"Eastex/Jensen
+3418 Topping St
+Houston, TX 77093
+(832) 377-0237",Houston,78,3130,4.5,https://www.yelp.com/biz/city-acre-brewing-houston,City Acre Brewing,300
+235,"The Heights
+2701 White Oak Dr
+Houston, TX 77007
+(713) 868-8000",Houston,602,3130,4.0,https://www.yelp.com/biz/bbs-cafe-houston-3,BB’s Cafe,500
+236,"EaDo, Downtown
+2017 Leeland St
+Houston, TX 77003",Houston,2,3130,4.0,https://www.yelp.com/biz/eadeauxs-houston,EaDeaux’s,700
+237,"Upper Kirby
+3030 Audley St
+Houston, TX 77098
+(713) 814-5101",Houston,18,3130,4.0,https://www.yelp.com/biz/blue-nile-houston,Blue Nile,900
+238,"Medical Center
+2616 S Lp W
+Houston, TX 77054
+(713) 592-0040",Houston,13,3130,5.0,https://www.yelp.com/biz/our-deli-houston,Our Deli,110
+239,"149 Linden Ave
+Long Beach, CA 90802
+(562) 951-7181",Huntington Beach,461,7559,4.0,https://www.yelp.com/biz/thai-district-long-beach,Thai District,156
+240,"17441 Beach Blvd
+Huntington Beach, CA 92647
+(714) 843-0655",Huntington Beach,478,7559,4.0,https://www.yelp.com/biz/saffron-grill-huntington-beach-2,Saffron Grill,356
+241,"5171 Warner Ave
+Huntington Beach, CA 92649
+(714) 625-4305",Huntington Beach,139,7559,4.0,https://www.yelp.com/biz/sammys-huntington-beach-2,Sammy’s,556
+242,"18302 Beach Blvd
+Huntington Beach, CA 92648
+(714) 375-0022",Huntington Beach,380,7559,3.5,https://www.yelp.com/biz/wings-n-things-grill-huntington-beach,Wings ‘N Things Grill,756
+243,"3011 Harbor Blvd
+Costa Mesa, CA 92626
+(714) 825-0100",Huntington Beach,563,7559,4.0,https://www.yelp.com/biz/empanadas-place-costa-mesa,Empanada’s Place,956
+244,"8110 N College Ave
+Indianapolis, IN 46240
+(317) 251-2294",Indianapolis,118,1572,3.5,https://www.yelp.com/biz/hollyhock-hill-indianapolis-3,Hollyhock Hill,531
+245,"Chatham Arch
+878 Massachusetts Ave
+Indianapolis, IN 46204
+(317) 972-7966",Indianapolis,71,1572,4.5,https://www.yelp.com/biz/mass-ave-wine-indianapolis,Mass Ave Wine,731
+246,"Mile Square
+6 E Washington
+Indianapolis, IN 46204
+(317) 653-5098",Indianapolis,37,1572,3.5,https://www.yelp.com/biz/chipotle-mexican-grill-indianapolis-7,Chipotle Mexican Grill,931
+247,"2902 Madison Ave
+Indianapolis, IN 46225
+(317) 781-0667",Indianapolis,11,1572,2.5,https://www.yelp.com/biz/popeyes-louisiana-kitchen-indianapolis-10,Popeyes Louisiana Kitchen,141
+248,"Mile Square
+141 S Meridian St
+Indianapolis, IN 46225
+(317) 362-0072",Indianapolis,116,1572,3.5,https://www.yelp.com/biz/broken-english-indianapolis,Broken English,341
+249,"89 2nd St
+Coralville, IA 52241
+(319) 354-1272",Iowa City,6,308,1.0,https://www.yelp.com/biz/subway-coralville-3,Subway,185
+250,"201 S Clinton St
+Iowa City, IA 52240
+(319) 331-6454",Iowa City,16,308,3.0,https://www.yelp.com/biz/t-spoons-iowa-city,T Spoons,77
+251,"1722 W 1st St
+Santa Ana, CA 92703
+(714) 667-7964",Irvine,127,6392,4.0,https://www.yelp.com/biz/lantern-grill-santa-ana-2,Lantern Grill,837
+252,"2816 Lafayette Rd
+Newport Beach, CA 92663
+(949) 673-3625",Irvine,345,6392,4.0,https://www.yelp.com/biz/the-dock-newport-beach,The Dock,47
+253,"Located in Campus Plaza
+(949) 769-6196",Irvine,250,6392,4.0,https://www.yelp.com/biz/asian-box-irvine,Asian Box,247
+254,"Located in Irvine Spectrum Center
+(949) 788-9998",Irvine,968,6392,3.0,https://www.yelp.com/biz/the-cheesecake-factory-irvine,The Cheesecake Factory,447
+255,"12932 Newport Ave
+Tustin, CA 92780
+(714) 884-3108",Irvine,139,6392,4.0,https://www.yelp.com/biz/l-uxweet-tustin,L’uxweet,647
+256,"3063 Southwest Blvd
+Kansas City, MO 64108
+(816) 988-2500",Kansas City,29,1255,3.5,https://www.yelp.com/biz/minskys-pizza-kansas-city-9,Minsky’s Pizza,591
+257,"Kansas City, MO
+(816) 215-5547",Kansas City,5,1255,3.0,https://www.yelp.com/biz/little-italy-kansas-city,Little Italy,791
+258,"5000 State Ave
+Kansas City, KS 66102
+(913) 287-9268",Kansas City,10,1255,3.5,https://www.yelp.com/biz/jalisco-restaurants-kansas-city,Jalisco Restaurants,1
+259,"1000 W 39th St
+Kansas City, MO 64111
+(816) 255-3753",Kansas City,2282,1255,4.5,https://www.yelp.com/biz/q39-midtown-kansas-city,Q39 Midtown,201
+260,"3037 Main St
+Kansas City, MO 64108
+(816) 960-3474",Kansas City,97,1255,4.0,https://www.yelp.com/biz/lutfis-fried-fish-kansas-city-5,Lutfi’s Fried Fish,401
+261,"52 Maui Lani Pkwy
+Wailuku, HI 96793
+(808) 213-0303",Lahaina,32,357,4.0,https://www.yelp.com/biz/dominos-pizza-wailuku-2,Domino’s Pizza,151
+262,"658 Front St
+Lahaina, HI 96761
+(808) 661-1919",Lahaina,64,357,3.5,https://www.yelp.com/biz/tiki-tiki-thai-cuisine-2-lahaina,Tiki Tiki Thai Cuisine 2,351
+263,"Sunrise
+Las Vegas, NV 89104
+(702) 420-2008",Las Vegas,140,3887,3.0,https://www.yelp.com/biz/cousins-maine-lobster-las-vegas-las-vegas-2,Cousins Maine Lobster - Las Vegas,132
+264,"Eastside
+360 E Flamingo Rd
+Las Vegas, NV 89169
+(702) 431-4500",Las Vegas,1022,3887,4.5,https://www.yelp.com/biz/fogo-de-ch%C3%A3o-brazilian-steakhouse-las-vegas-7,Fogo de Chão Brazilian Steakhouse,332
+265,"Westside
+3713 W Sahara Ave
+Las Vegas, NV 89102
+(702) 982-8036",Las Vegas,1260,3887,4.0,https://www.yelp.com/biz/herbs-and-rye-las-vegas,Herbs & Rye,532
+266,"Sunrise
+1455 S Lamb Blvd
+Las Vegas, NV 89104
+(702) 685-9595",Las Vegas,638,3887,3.0,https://www.yelp.com/biz/golden-corral-las-vegas-3,Golden Corral,732
+267,"Westside
+3854 W Sahara Ave
+Las Vegas, NV 89102
+(702) 586-9229",Las Vegas,106,3887,4.5,https://www.yelp.com/biz/pro-kabob-persian-restaurant-las-vegas-5,Pro Kabob Persian Restaurant,932
+268,"4285 Valley Ave
+Pleasanton, CA 94566
+(925) 484-0480",Livermore,189,790,4.0,https://www.yelp.com/biz/hunan-chef-pleasanton,Hunan Chef,525
+269,"Serving Fremont and the Surrounding Area
+(650) 733-2524",Livermore,115,790,4.0,https://www.yelp.com/biz/grillaz-gone-wild-fremont-8,Grillaz Gone Wild Cheesesteak Food Truck And Catering,725
+270,"6797 Village Pkwy
+Dublin, CA 94568
+(925) 828-0492",Livermore,32,790,2.0,https://www.yelp.com/biz/a-and-w-dublin,A&W,135
+271,"Located in Stoneridge Shopping Center
+(925) 398-8690",Livermore,74,790,4.0,https://www.yelp.com/biz/the-counter-pleasanton-pleasanton,The Counter Pleasanton,335
+272,"4501 Carson St
+Long Beach, CA 90808
+(562) 425-7799",Long Beach,132,8372,3.5,https://www.yelp.com/biz/we-love-pho-ii-long-beach,We Love Pho II,623
+273,"2000 Ximeno Ave
+Long Beach, CA 90815
+(562) 498-0654",Long Beach,298,8372,4.0,https://www.yelp.com/biz/toppings-pizza-long-beach,Toppings Pizza,823
+274,"5345 Long Beach Blvd
+Long Beach, CA 90805
+(562) 428-6398",Long Beach,100,8372,3.5,https://www.yelp.com/biz/el-cortez-restaurant-long-beach,El Cortez Restaurant,33
+275,"5716 E 2nd St
+Long Beach, CA 90803
+(562) 434-2333",Long Beach,332,8372,4.0,https://www.yelp.com/biz/chianina-steakhouse-long-beach,Chianina Steakhouse,233
+276,"240 Pine Ave
+Long Beach, CA 90802
+(562) 682-8388",Long Beach,55,8372,4.5,https://www.yelp.com/biz/the-wild-chive-long-beach,The Wild Chive,433
+277,"223 Castro St
+Mountain View, CA 94041
+(650) 964-9151",Los Altos,551,1303,3.5,https://www.yelp.com/biz/st-stephens-green-mountain-view-3,St Stephen’s Green,663
+278,"20735 Stevens Creek Blvd
+Cupertino, CA 95014
+(408) 366-2208",Los Altos,22,1303,3.5,https://www.yelp.com/biz/the-habit-burger-grill-cupertino-2,The Habit Burger Grill,863
+279,"455 E Charleston Rd
+Palo Alto, CA 94306
+(650) 322-3742",Los Altos,4,1303,4.0,https://www.yelp.com/biz/la-comida-palo-alto,La Comida,73
+280,"Located in Dinah's Garden Hotel
+(650) 493-2844",Los Altos,159,1303,4.0,https://www.yelp.com/biz/dinahs-poolside-restaurant-palo-alto,Dinah’s Poolside Restaurant,273
+281,"19541 Richwood Dr
+Cupertino, CA 95014
+(408) 982-5775",Los Altos,202,1303,4.0,https://www.yelp.com/biz/sizzling-gourmet-cupertino-7,Sizzling Gourmet,473
+282,"Echo Park
+1412 Glendale Blvd
+Los Angeles, CA 90026
+(213) 568-3827",Los Angeles,271,9478,4.5,https://www.yelp.com/biz/the-semi-tropic-los-angeles,The Semi-Tropic,525
+283,"Chinatown
+943 N Broadway
+Los Angeles, CA 90012
+(323) 405-4012",Los Angeles,450,9478,3.5,https://www.yelp.com/biz/burgerlords-los-angeles,Burgerlords,725
+284,"Atwater Village
+3280 Glendale Blvd
+Los Angeles, CA 90039
+(323) 663-3280",Los Angeles,484,9478,4.0,https://www.yelp.com/biz/allacqua-los-angeles-2,All’Acqua,925
+285,"West Los Angeles
+10571 Pico Blvd
+Los Angeles, CA 90064
+(310) 441-7770",Los Angeles,784,9478,4.0,https://www.yelp.com/biz/food-los-angeles-2,Food,135
+286,"Sawtelle
+2024 Sawtelle Blvd
+Los Angeles, CA 90025
+(424) 273-6469",Los Angeles,542,9478,4.0,https://www.yelp.com/biz/flores-and-sons-los-angeles,Flores and Sons,335
+287,"West San Jose
+1150 S De Anza Blvd
+San Jose, CA 95129
+(408) 725-0181",Los Gatos,75,1062,2.0,https://www.yelp.com/biz/mcdonalds-san-jose-30,McDonald’s,148
+288,"West San Jose
+455 Saratoga Ave
+San Jose, CA 95129
+(408) 320-1930",Los Gatos,240,1062,4.5,https://www.yelp.com/biz/poke-paradise-san-jose-2,Poke Paradise,348
+289,"12108 Saratoga-Sunnyvale Rd
+Saratoga, CA 95070
+(408) 777-8774",Los Gatos,353,1062,4.0,https://www.yelp.com/biz/sushi-heaven-saratoga,Sushi Heaven,548
+290,"Almaden Valley
+5650 Almaden Expy
+San Jose, CA 95118
+(408) 266-4800",Los Gatos,288,1062,3.0,https://www.yelp.com/biz/chilis-san-jose-34,Chili’s,748
+291,"Willow Glen
+1351 Lincoln Ave
+San Jose, CA 95125
+(408) 288-7095",Los Gatos,72,1062,3.0,https://www.yelp.com/biz/le-boulanger-san-jose-6,Le Boulanger,948
+292,"Fourth Street, Downtown
+415 S 4th St
+Louisville, KY 40202
+(502) 585-3577",Louisville,66,1641,2.5,https://www.yelp.com/biz/tgi-fridays-louisville,TGI Fridays,618
+293,"Civic Center, Downtown
+526 S 5th St
+Louisville, KY 40202
+(502) 889-0827",Louisville,38,1641,3.0,https://www.yelp.com/biz/weiwei-chineseexpress-louisville-2,WeiWei ChineseExpress,818
+294,"East Main, Downtown
+301 E Market St
+Louisville, KY 40202
+(502) 587-7888",Louisville,17,1641,3.0,https://www.yelp.com/biz/jimmy-johns-louisville-4,Jimmy John’s,28
+295,"Germantown
+1012 Barret Ave
+Louisville, KY 40204",Louisville,45,1641,4.0,https://www.yelp.com/biz/barret-bar-louisville,Barret Bar,228
+296,"Limerick
+517 W Oak St
+Louisville, KY 40203
+(502) 822-3046",Louisville,38,1641,4.5,https://www.yelp.com/biz/baraka-resturant-louisville,Baraka Resturant,428
+297,"South Campus
+1212 Regent St
+Madison, WI 53715
+(608) 251-6766",Madison,9,1051,3.5,https://www.yelp.com/biz/the-red-zone-madison-madison,The Red Zone Madison,790
+298,"5901 Hwy 51
+Madison, WI 53704
+(608) 246-3532",Madison,2,1051,1.5,https://www.yelp.com/biz/country-pride-restaurant-madison-2,Country Pride Restaurant,990
+299,"2750 Prairie Lakes Dr
+Sun Prairie, WI 53590
+(608) 825-7796",Madison,15,1051,1.0,https://www.yelp.com/biz/mcdonalds-sun-prairie-2,McDonald’s,200
+300,"Junction Ridge
+515 Junction Rd
+Madison, WI 53717
+(608) 203-9671",Madison,9,1051,4.0,https://www.yelp.com/biz/anointed-one-madison,Anointed One,400
+301,"Capitol
+583 State St
+Madison, WI 53703
+(608) 709-1911",Madison,43,1051,3.5,https://www.yelp.com/biz/colectivo-coffee-madison-4,Colectivo Coffee,600
+302,"Del Rey
+4929 Sepulveda Blvd
+Culver City, CA 90230
+(310) 313-7625",Marina del Rey,349,1096,4.5,https://www.yelp.com/biz/mateos-ice-cream-and-fruit-bars-culver-city,Mateo’s Ice Cream & Fruit Bars,581
+303,"1447 2nd St
+Santa Monica, CA 90401
+(310) 917-3311",Marina del Rey,652,1096,3.5,https://www.yelp.com/biz/jinkys-cafe-santa-monica-santa-monica,Jinky’s Cafe Santa Monica,781
+304,"Culver City
+3816 Sepulveda Blvd
+Culver City, CA 90230
+(310) 397-4119",Marina del Rey,84,1096,2.5,https://www.yelp.com/biz/carls-jr-culver-city,Carls jr,981
+305,"Serving Los Angeles and the Surrounding Area
+(310) 844-3237",Marina del Rey,4,1096,4.0,https://www.yelp.com/biz/chicken-and-waffle-factory-los-angeles,Chicken and Waffle Factory,191
+306,"120 Broadway
+Santa Monica, CA 90401
+(424) 999-4594",Marina del Rey,173,1096,4.5,https://www.yelp.com/biz/kazunori-the-original-hand-roll-bar-santa-monica,KazuNori: The Original Hand Roll Bar,391
+307,"Downtown
+73 Monroe Ave
+Memphis, TN 38103
+(901) 275-8752",Memphis,238,957,4.0,https://www.yelp.com/biz/bardog-tavern-memphis,Bardog Tavern,228
+308,"Berclair
+4509 Summer Ave
+Memphis, TN 38122",Memphis,15,957,4.5,https://www.yelp.com/biz/caiman-memphis,Caiman,428
+309,"Chickasaw Oaks
+3482 Plaza Ave
+Memphis, TN 38111
+(901) 452-6009",Memphis,27,957,2.5,https://www.yelp.com/biz/mcalisters-deli-memphis-2,McAlister’s Deli,628
+310,"1155 S Bellevue Blvd
+Memphis, TN 38104
+(901) 775-1190",Memphis,2,957,1.0,https://www.yelp.com/biz/churchs-chicken-memphis-17,Church’s Chicken,828
+311,"Frayser
+3275 Thomas St
+Memphis, TN 38127
+(901) 354-0178",Memphis,1,957,1.0,https://www.yelp.com/biz/wendys-memphis-34,Wendy’s,71
+312,"1509 Main St
+Redwood City, CA 94063
+(650) 421-1781",Menlo Park,7,1227,2.5,https://www.yelp.com/biz/panaderia-y-restaurante-guatemalteca-redwood-city,Panaderia Y Restaurante Guatemalteca,37
+313,"3387 Middlefield Rd
+Menlo Park, CA 94025
+(650) 549-8016",Menlo Park,8,1227,4.5,https://www.yelp.com/biz/tacos-el-fogon-menlo-park,Tacos El Fogon,237
+314,"135 El Camino Real
+San Carlos, CA 94070
+(650) 594-2840",Menlo Park,1087,1227,4.5,https://www.yelp.com/biz/kabul-afghan-cuisine-san-carlos,Kabul Afghan Cuisine,437
+315,"2464 W El Camino Real
+Mountain View, CA 94040
+(650) 961-6888",Menlo Park,310,1227,4.5,https://www.yelp.com/biz/veggie-garden-mountain-view,Veggie Garden,637
+316,"Serving Belmont and the Surrounding Area
+(650) 336-5664",Menlo Park,165,1227,3.5,https://www.yelp.com/biz/hongry-kong-belmont-2,Hongry Kong,837
+317,"140 SE 1st Ave
+Miami, FL 33131
+(305) 577-4414",Miami,13,4124,4.5,https://www.yelp.com/biz/delirio-peruvian-fusion-miami-5,Delirio Peruvian Fusion,718
+318,"Brickell
+35 SE 6th St
+Miami, FL 33131
+(305) 424-9593",Miami,43,4124,3.5,https://www.yelp.com/biz/hibachi-grill-and-noodle-bar-miami-2,Hibachi Grill & Noodle Bar,918
+319,"5001 NW 36th St
+Miami Springs, FL 33166
+(305) 888-6022",Miami,197,4124,4.0,https://www.yelp.com/biz/toms-nfl-club-miami-springs,Tom’s NFL Club,128
+320,"Brickell
+Located in Brickell City Centre
+(786) 347-5368",Miami,501,4124,3.0,https://www.yelp.com/biz/tacology-miami,Tacology,328
+321,"Shorecrest
+1071 NE 79th St
+Miami, FL 33138
+(305) 381-0946",Miami,166,4124,4.0,https://www.yelp.com/biz/tap79-gastropub-and-craft-beer-bar-miami-2,Tap79 Gastropub & Craft Beer Bar,528
+322,"328 Crandon Blvd
+Key Biscayne, FL 33149
+(305) 361-2224",Miami Beach,65,6194,4.0,https://www.yelp.com/biz/tutto-pizza-and-pasta-key-biscayne,Tutto Pizza & Pasta,887
+323,"Wynwood
+111 NE 20th St
+Miami, FL 33137
+(786) 493-7537",Miami Beach,30,6194,4.5,https://www.yelp.com/biz/mr-wrights-golddigger-saloon-miami,Mr Wright’s Golddigger Saloon,97
+324,"1515 Washington Ave
+Miami Beach, FL 33139
+(305) 538-1551",Miami Beach,412,6194,4.0,https://www.yelp.com/biz/playa-cafe-miami-beach-2,Playa Cafe,297
+325,"Little Haiti
+5556 NE 4th Ct
+Miami, FL 33137
+(305) 759-3117",Miami Beach,548,6194,4.0,https://www.yelp.com/biz/soyka-miami,Soyka,497
+326,"Wynwood
+143 NW 23rd St
+Miami, FL 33127
+(305) 768-9826",Miami Beach,271,6194,4.0,https://www.yelp.com/biz/1-800-lucky-miami-2,1-800-Lucky,697
+327,"770 Tamalpais Dr
+Corte Madera, CA 94925
+(415) 945-0500",Mill Valley,7,502,3.5,https://www.yelp.com/biz/il-fornaio-corporate-offices-corte-madera,Il Fornaio Corporate Offices,483
+328,"916B St
+San Rafael, CA 94901",Mill Valley,0,502,-1.0,https://www.yelp.com/biz/pas-san-rafael-2,Pa’s,181
+329,"107 Bolinas Rd
+Fairfax, CA 94930
+(415) 258-4520",Mill Valley,271,502,4.5,https://www.yelp.com/biz/sorella-caffe-fairfax,Sorella Caffe,381
+330,"Located in San Francisco International Airport -SFO
+(650) 821-7400",Millbrae,24,470,3.0,https://www.yelp.com/biz/loris-diner-san-francisco-11,Lori’s Diner,464
+331,"1177 Airport Blvd
+Burlingame, CA 94010
+(650) 342-9200",Millbrae,0,470,-1.0,https://www.yelp.com/biz/terrace-restaurant-burlingame,Terrace Restaurant,194
+332,"1160 Capuchino Ave
+Burlingame, CA 94010
+(650) 348-7298",Millbrae,233,470,4.5,https://www.yelp.com/biz/que-seraw-seraw-burlingame-3,Que SeRaw SeRaw,394
+333,"North Valley
+1698 Hostetter Rd
+San Jose, CA 95131
+(408) 453-2006",Milpitas,257,1464,3.5,https://www.yelp.com/biz/kim-tar-restaurant-san-jose-2,Kim Tar Restaurant,543
+334,"2341 El Camino Real
+Santa Clara, CA 95050
+(408) 216-0954",Milpitas,60,1464,4.0,https://www.yelp.com/biz/garcias-taqueria-santa-clara,Garcias Taqueria,743
+335,"1795 Scott Blvd
+Santa Clara, CA 95050
+(408) 706-1802",Milpitas,24,1464,4.5,https://www.yelp.com/biz/mexcal-traditional-mexican-food-santa-clara,MexCal Traditional Mexican Food,943
+336,"East San Jose
+Story Rd & Kollmar Dr
+San Jose, CA 95127",Milpitas,29,1464,4.0,https://www.yelp.com/biz/tacos-peralta-san-jose,Tacos Peralta,153
+337,"76 S Abel St
+Milpitas, CA 95035
+(408) 262-9439",Milpitas,241,1464,3.0,https://www.yelp.com/biz/taste-good-beijing-cuisine-milpitas,Taste Good Beijing Cuisine,353
+338,"Downtown, Westown, Bronzeville
+1009 N Old World 3rd St
+Milwaukee, WI 53203
+(414) 226-2728",Milwaukee,216,1742,4.0,https://www.yelp.com/biz/old-german-beer-hall-milwaukee,Old German Beer Hall,352
+339,"East Town, Downtown
+777 E Wisconsin Ave
+Milwaukee, WI 53202
+(414) 287-0303",Milwaukee,18,1742,3.5,https://www.yelp.com/biz/downtown-kitchen-milwaukee-5,Downtown Kitchen,552
+340,"5740 108th St
+Hales Corners, WI 53130
+(414) 367-2983",Milwaukee,59,1742,4.5,https://www.yelp.com/biz/pho-ever-hales-corners,PHO EVER,752
+341,"2149 Miller Park Way
+West Milwaukee, WI 53219
+(414) 384-4227",Milwaukee,64,1742,3.0,https://www.yelp.com/biz/dickeys-barbecue-pit-west-milwaukee,Dickey’s Barbecue Pit,952
+342,"University Hill, Avenues West, Westown
+804 N 16th St
+Milwaukee, WI 53233
+(414) 288-7610",Milwaukee,2,1742,2.5,https://www.yelp.com/biz/wow-caf%C3%A9-milwaukee,WOW Café,162
+343,"4300 Glumack Dr
+Saint Paul, MN 55111
+(651) 432-0796",Minneapolis,38,2249,4.5,https://www.yelp.com/biz/lake-wine-kitchen-bar-saint-paul-3,Lake Wine Kitchen + Bar,869
+344,"Downtown Minneapolis
+625 4th Ave S
+Minneapolis, MN 55415",Minneapolis,2,2249,4.0,https://www.yelp.com/biz/thrivent-cafe-minneapolis,Thrivent Cafe,79
+345,"University
+817 Washington Ave SE
+Minneapolis, MN 55414
+(612) 379-9999",Minneapolis,53,2249,4.5,https://www.yelp.com/biz/sidewalk-kitchen-minneapolis,Sidewalk Kitchen,279
+346,"University
+507 14th Ave SE
+Minneapolis, MN 55414
+(612) 886-3855",Minneapolis,81,2249,4.0,https://www.yelp.com/biz/lepot-chinese-hotpot-minneapolis-2,Lepot Chinese Hotpot,479
+347,"Downtown Minneapolis
+607 Washington Ave S
+Minneapolis, MN 55415
+(612) 338-6451",Minneapolis,138,2249,2.5,https://www.yelp.com/biz/sawatdee-minneapolis-3,Sawatdee,679
+348,"635 Cass St
+Monterey, CA 93940
+(831) 324-4260",Monterey,465,517,3.5,https://www.yelp.com/biz/lopez-restaurante-y-cantina-monterey,Lopez Restaurante Y Cantina,318
+349,"6th Ave & Dolores St
+Carmel, CA 93923
+(831) 624-5007",Monterey,236,517,4.0,https://www.yelp.com/biz/little-swiss-cafe-carmel-2,Little Swiss Cafe,1
+350,"39 Fishermans Wharf
+Monterey, CA 93940
+(831) 375-4604",Monterey,3783,517,4.0,https://www.yelp.com/biz/old-fishermans-grotto-monterey,Old Fisherman’s Grotto,201
+351,"233 State St
+Los Altos, CA 94022
+(650) 397-5614",Mountain View,212,4716,4.5,https://www.yelp.com/biz/urfa-bistro-los-altos,Urfa Bistro,248
+352,"75 Arbor Rd
+Menlo Park, CA 94025
+(650) 838-9002",Mountain View,4,4716,5.0,https://www.yelp.com/biz/cafe-wisteria-menlo-park,Cafe Wisteria,448
+353,"Downtown
+856 N 13th St
+San Jose, CA 95112
+(408) 418-3180",Mountain View,104,4716,4.5,https://www.yelp.com/biz/mesquite-and-oak-san-jose,Mesquite and Oak,648
+354,"3450 El Camino Real
+Santa Clara, CA 95051
+(408) 261-3030",Mountain View,1049,4716,4.0,https://www.yelp.com/biz/sgd-tofu-house-santa-clara,SGD Tofu House,848
+355,"5855 Jarvis Ave
+Newark, CA 94560
+(510) 742-2500",Mountain View,180,4716,4.0,https://www.yelp.com/biz/sizzle-spot-newark,Sizzle Spot,58
+356,"2840 Soscol Ave
+Napa, CA 94558
+(707) 255-4522",Napa,3,483,2.5,https://www.yelp.com/biz/elks-restaurant-of-napa-napa-elks-restaurant-napa,Elks Restaurant of Napa Napa Elks Restaurant,112
+357,"1650 Soscol Ave
+Napa, CA 94559
+(707) 690-9381",Napa,5,483,5.0,https://www.yelp.com/biz/kitchen-collective-napa,Kitchen Collective,312
+358,"5184 Sonoma Blvd
+Vallejo, CA 94589
+(707) 731-9424",Napa,203,483,3.5,https://www.yelp.com/biz/sushi-grill-vallejo,Sushi Grill,29
+359,"3124 S Rt 59
+Naperville, IL 60564
+(630) 946-0600",Naperville,115,2172,3.5,https://www.yelp.com/biz/francescas-passaggio-naperville,Francesca’s Passaggio,259
+360,"311 E Loop Rd
+Wheaton, IL 60187
+(630) 871-1030",Naperville,246,2172,3.0,https://www.yelp.com/biz/cozymels-mexican-grill-wheaton,Cozymel’s Mexican Grill,459
+361,"10 W State St
+North Aurora, IL 60542
+(630) 892-4400",Naperville,212,2172,4.0,https://www.yelp.com/biz/harners-bakery-and-restaurant-north-aurora,Harner’s Bakery And Restaurant,659
+362,"17W635 Roosevelt Rd
+Oakbrook Terrace, IL 60181
+(630) 468-2606",Naperville,223,2172,4.0,https://www.yelp.com/biz/i-dream-of-falafel-oakbrook-terrace,I Dream Of Falafel,859
+363,"29 Boulder Hill Pass
+Montgomery, IL 60538
+(630) 892-0231",Naperville,16,2172,4.0,https://www.yelp.com/biz/select-restaurant-montgomery,Select Restaurant,69
+364,"Hillsboro West End
+3415 W End Ave
+Nashville, TN 37203
+(615) 463-3005",Nashville,317,1862,4.0,https://www.yelp.com/biz/woodlands-indian-vegetarian-cuisine-nashville-2,Woodlands Indian Vegetarian Cuisine,601
+365,"Sylvan Park
+5337 Charlotte Ave
+Nashville, TN 37209
+(615) 424-4242",Nashville,18,1862,4.5,https://www.yelp.com/biz/greek-gyro-mediterranean-grill-nashville-2,Greek Gyro Mediterranean Grill,801
+366,"South Nashville
+2521 Nolensville Pike
+Nashville, TN 37211
+(615) 242-6664",Nashville,22,1862,4.0,https://www.yelp.com/biz/dunya-kabab-restaurant-nashville,Dunya Kabab Restaurant,11
+367,"Midtown, Music Row
+202 21st Ave S
+Nashville, TN 37203
+(615) 925-3362",Nashville,86,1862,4.5,https://www.yelp.com/biz/nada-nashville,Nada,211
+368,"Donelson
+457 Donelson Pike
+Nashville, TN 37214
+(615) 401-9150",Nashville,67,1862,4.5,https://www.yelp.com/biz/sindoore-indian-by-nature-nashville,Sindoore - Indian By Nature,411
+369,"240 Boston Post Rd
+Orange, CT 06477
+(203) 799-6919",New Haven,19,971,3.0,https://www.yelp.com/biz/duchess-family-restaurant-of-orange-orange,Duchess Family Restaurant of Orange,838
+370,"1306 State St
+New Haven, CT 06511
+(203) 624-0449",New Haven,1,971,3.0,https://www.yelp.com/biz/arelys-restaurant-and-take-out-new-haven,Arely’s Restaurant & Take Out,67
+371,"501 Long Wharf Dr
+New Haven, CT 06511
+(203) 691-6619",New Haven,237,971,3.0,https://www.yelp.com/biz/lenny-and-joes-fish-tale-new-haven,Lenny & Joe’s Fish Tale,267
+372,"990 W Main St
+Branford, CT 06405
+(203) 481-9990",New Haven,66,971,4.0,https://www.yelp.com/biz/lo-monacos-branford,Lo Monaco’s,467
+373,"778 Boston Post Rd
+West Haven, CT 06516
+(203) 931-8465",New Haven,5,971,4.5,https://www.yelp.com/biz/golden-dragon-west-haven,Golden Dragon,667
+374,"French Quarter
+777 Bienville St
+New Orleans, LA 70130
+(504) 553-2277",New Orleans,875,2773,4.5,https://www.yelp.com/biz/restaurant-revolution-new-orleans-3,Restaurant R’evolution,220
+375,"428 Jefferson Hwy
+New Orleans, LA 70121
+(504) 833-2722",New Orleans,306,2773,4.5,https://www.yelp.com/biz/crabby-jacks-new-orleans,Crabby Jack’s,420
+376,"Bayou St. John
+1201 N Broad St
+New Orleans, LA 70119
+(504) 482-9092",New Orleans,19,2773,4.5,https://www.yelp.com/biz/orchid-seafood-new-orleans,Orchid Seafood,620
+377,"Warehouse District, Lower Garden District
+1128 Tchoupitoulas St
+New Orleans, LA 70130
+(504) 558-0900",New Orleans,56,2773,4.0,https://www.yelp.com/biz/dinos-bar-and-grill-new-orleans,Dino’s Bar & Grill,820
+378,"16 W Airline Hwy
+Kenner, LA 70062
+(504) 405-0375",New Orleans,73,2773,5.0,https://www.yelp.com/biz/nolanica-kenner,NolaNica,30
+379,"Theater District, Hell's Kitchen, Midtown West
+772 9th Ave
+New York, NY 10019
+(212) 757-9393",New York,437,24445,4.5,https://www.yelp.com/biz/k-rico-new-york,K Rico,64
+380,"Flatiron
+88 Madison Ave
+New York, NY 10016
+(212) 691-0555",New York,1605,24445,4.0,https://www.yelp.com/biz/scarpetta-new-york,Scarpetta,264
+381,"Midtown West
+34 W 35th St
+New York, NY 10001
+(212) 564-4430",New York,812,24445,4.0,https://www.yelp.com/biz/barn-joo-35-new-york,Barn Joo 35,464
+382,"Chelsea
+463 W 24th St
+New York, NY 10001
+(212) 645-5660",New York,190,24445,4.5,https://www.yelp.com/biz/rocket-pig-new-york,Rocket Pig,664
+383,"Little Italy
+163 Mulberry St
+New York, NY 10013
+(212) 775-8484",New York,266,24445,4.0,https://www.yelp.com/biz/la-bella-vita-new-york,La Bella Vita,864
+384,"1969 Harbor Blvd
+Costa Mesa, CA 92627
+(949) 646-3484",Newport Beach,287,5426,4.0,https://www.yelp.com/biz/pasta-connection-costa-mesa,Pasta Connection,791
+385,"36 Plaza Sq
+Orange, CA 92866
+(714) 633-5842",Newport Beach,1665,5426,4.0,https://www.yelp.com/biz/felix-continental-caf%C3%A9-orange-2,Felix Continental Café,1
+386,"209 1/2 Palm St
+Newport Beach, CA 92661
+(949) 675-3620",Newport Beach,492,5426,4.5,https://www.yelp.com/biz/patty-macs-newport-beach,Patty Macs,201
+387,"1830 Main St
+Irvine, CA 92614
+(949) 222-9910",Newport Beach,1564,5426,4.0,https://www.yelp.com/biz/agora-churrascaria-irvine,Agora Churrascaria,401
+388,"2394 Newport Blvd
+Costa Mesa, CA 92627
+(949) 287-6785",Newport Beach,192,5426,4.5,https://www.yelp.com/biz/wok-in-costa-mesa,Wok-In,601
+389,"Temescal, North Oakland
+4828 Telegraph Ave
+Oakland, CA 94609",Oakland,7,7893,4.0,https://www.yelp.com/biz/nokni-oakland,Nokni,474
+390,"Mission
+1199 Valencia St
+San Francisco, CA 94110
+(415) 695-1199",Oakland,3217,7893,4.0,https://www.yelp.com/biz/beretta-san-francisco,Beretta,674
+391,"Nob Hill
+1722 Sacramento St
+San Francisco, CA 94109
+(415) 567-5432",Oakland,983,7893,4.5,https://www.yelp.com/biz/acquerello-san-francisco,Acquerello,874
+392,"1650 Park St
+Alameda, CA 94501
+(510) 239-4059",Oakland,121,7893,4.0,https://www.yelp.com/biz/greens-and-grains-alameda,Greens & Grains,84
+393,"North Oakland
+942 Stanford Ave
+Oakland, CA 94608
+(510) 808-7519",Oakland,123,7893,4.5,https://www.yelp.com/biz/sideshow-kitchen-oakland,Sideshow Kitchen,284
+394,"3533 E Chapman Ave
+Orange, CA 92869
+(714) 633-3922",Orange County,521,4602,4.0,https://www.yelp.com/biz/taco-mesa-orange,Taco Mesa,19
+395,"633 Anton Blvd
+Costa Mesa, CA 92626
+(714) 546-7405",Orange County,2819,4602,4.0,https://www.yelp.com/biz/mastros-steakhouse-costa-mesa-2,Mastro’s Steakhouse,219
+396,"Located in Disneyland Park
+(714) 781-3463",Orange County,2926,4602,4.0,https://www.yelp.com/biz/blue-bayou-restaurant-anaheim-3,Blue Bayou Restaurant,419
+397,"1215 Baker St
+Costa Mesa, CA 92626
+(714) 852-3772",Orange County,343,4602,4.5,https://www.yelp.com/biz/the-straw-modern-milkshakes-costa-mesa-3,The Straw: Modern Milkshakes,619
+398,"3751 S Harbor Blvd
+Santa Ana, CA 92704
+(714) 540-2700",Orange County,272,4602,4.0,https://www.yelp.com/biz/tommy-pastrami-new-york-delicatessen-santa-ana-2,Tommy Pastrami New York Delicatessen,819
+399,"7350 Narcoossee Rd
+Orlando, FL 32822
+(407) 601-8575",Orlando,9,2495,3.5,https://www.yelp.com/biz/787-mofongo-orlando-4,787 Mofongo,685
+400,"South John Young
+4008 Orange Blossom Trl
+Orlando, FL 32839
+(407) 648-4889",Orlando,24,2495,4.0,https://www.yelp.com/biz/los-dos-amigos-orlando,Los Dos Amigos,885
+401,"South Orange Blossom Trail / OBT
+10471-10495 S Orange Blossom Trl
+Orlando, FL 32837
+(407) 300-0791",Orlando,10,2495,4.5,https://www.yelp.com/biz/munchies-boricuas-orlando-2,Munchie’s Boricuas,95
+402,"South Orange Blossom Trail / OBT
+9785 C Orange Blossom Trl
+Orlando, FL 32837
+(407) 601-1542",Orlando,179,2495,4.5,https://www.yelp.com/biz/tacos-express-florida-orlando-2,Tacos Express Florida,295
+403,"South Orange Blossom Trail / OBT
+8204 Crystal Clear Ln
+Orlando, FL 32809
+(407) 704-4014",Orlando,44,2495,4.5,https://www.yelp.com/biz/memories-of-peru-pollos-a-la-brasa-orlando-9,Memories of Peru Pollos a La Brasa,495
+404,"855 W El Camino Real
+Mountain View, CA 94040
+(650) 988-8820",Palo Alto,244,1160,3.5,https://www.yelp.com/biz/chef-xiu-mountain-view,Chef Xiu,848
+405,"Serving Oakland and the Surrounding Area
+(510) 816-1753",Palo Alto,117,1160,4.0,https://www.yelp.com/biz/opies-gsb-truck-oakland-3,Opie’s GSB Truck,58
+406,"1143 Crane St
+Menlo Park, CA 94025
+(650) 319-8197",Palo Alto,609,1160,4.0,https://www.yelp.com/biz/the-refuge-menlo-park,The Refuge,258
+407,"142 Castro St
+Mountain View, CA 94041
+(650) 584-3947",Palo Alto,572,1160,4.0,https://www.yelp.com/biz/asian-box-mountain-view,Asian Box,458
+408,"4290 El Camino Real
+Palo Alto, CA 94306
+(650) 628-0145",Palo Alto,22,1160,3.5,https://www.yelp.com/biz/4290-bistro-and-bar-palo-alto,4290 Bistro & Bar,658
+409,"Pasadena
+37 S Fair Oaks Ave
+Pasadena, CA 91105
+(626) 584-0268",Pasadena,550,2277,4.0,https://www.yelp.com/biz/green-earth-vegan-cuisine-pasadena,Green Earth Vegan Cuisine,527
+410,"Pasadena
+234 E Colorado Blvd
+Pasadena, CA 91101
+(626) 204-0845",Pasadena,562,2277,3.0,https://www.yelp.com/biz/bjs-restaurant-and-brewhouse-pasadena,BJ’s Restaurant & Brewhouse,727
+411,"Located in Nordstrom
+(626) 821-6363",Pasadena,155,2277,4.0,https://www.yelp.com/biz/marketplace-cafe-arcadia-4,Marketplace Cafe,927
+412,"Highland Park
+5213 York Blvd
+Los Angeles, CA 90042
+(323) 254-4555",Pasadena,269,2277,4.0,https://www.yelp.com/biz/jugos-azteca-los-angeles,Jugos Azteca,137
+413,"Pasadena
+26 N Los Robles Ave
+Pasadena, CA 91101
+(626) 405-0365",Pasadena,244,2277,4.0,https://www.yelp.com/biz/rotisserie-chicken-of-california-pasadena-2,Rotisserie Chicken of California,337
+414,"East Passyunk Crossing
+1617 E Passyunk Ave
+Philadelphia, PA 19148
+(215) 271-8299",Philadelphia,261,5592,4.5,https://www.yelp.com/biz/laurel-philadelphia-2,Laurel,327
+415,"Cedar Park
+816 S 47th St
+Philadelphia, PA 19143
+(215) 729-0260",Philadelphia,268,5592,4.0,https://www.yelp.com/biz/vietnam-cafe-philadelphia,Vietnam Cafe,527
+416,"Spruce Hill, University City
+4420 Walnut St
+Philadelphia, PA 19104
+(215) 921-2135",Philadelphia,459,5592,4.0,https://www.yelp.com/biz/manakeesh-cafe-bakery-philadelphia,Manakeesh Cafe Bakery,727
+417,"Northern Liberties
+1033 N 2nd St
+Philadelphia, PA 19102
+(215) 278-8989",Philadelphia,154,5592,3.0,https://www.yelp.com/biz/wahlburgers-philadelphia,Wahlburgers,927
+418,"Passyunk Square
+610 Washington Ave
+Philadelphia, PA 19147
+(215) 599-0264",Philadelphia,432,5592,4.0,https://www.yelp.com/biz/pho-ha-philadelphia,Pho Ha,137
+419,"706 E Washington St
+Phoenix, AZ 85034
+(602) 481-4879",Phoenix,0,2200,-1.0,https://www.yelp.com/biz/siam-cuisines-phoenix-2,Siam Cuisines,177
+420,"101 N 1st Ave
+Phx, AZ 85003
+(714) 253-2717",Phoenix,13,2200,4.0,https://www.yelp.com/biz/mol%C3%A9-phx-2,M’Olé,377
+421,"4325 E Indian School Rd
+Phoenix, AZ 85018
+(602) 667-6000",Phoenix,110,2200,3.5,https://www.yelp.com/biz/uberrito-phoenix-3,Uberrito,577
+422,"120 E Taylor St
+Phoenix, AZ 85004
+(602) 254-6337",Phoenix,65,2200,3.5,https://www.yelp.com/biz/hsin-cafe-phoenix,Hsin Cafe,777
+423,"1621 E Van Buren St
+Phoenix, AZ 85034
+(602) 254-1650",Phoenix,21,2200,3.5,https://www.yelp.com/biz/federicos-mexican-food-phoenix-9,Federico’s Mexican Food,977
+424,"Carrick
+2122 Brownsville Rd
+Pittsburgh, PA 15210
+(412) 980-4612",Pittsburgh,3,2217,5.0,https://www.yelp.com/biz/nepali-asian-restaurant-pittsburgh,Nepali Asian Restaurant,709
+425,"South Side
+2526 E Carson St
+Pittsburgh, PA 15203
+(412) 431-4090",Pittsburgh,29,2217,4.0,https://www.yelp.com/biz/excuses-bar-and-grill-pittsburgh,Excuses Bar & Grill,909
+426,"Oakland
+125 Oakland Ave
+Pittsburgh, PA 15213
+(412) 687-8000",Pittsburgh,65,2217,3.0,https://www.yelp.com/biz/szechuan-express-pittsburgh,Szechuan Express,119
+427,"Oakland
+326 Atwood St
+Pittsburgh, PA 15213
+(412) 682-1115",Pittsburgh,183,2217,4.5,https://www.yelp.com/biz/las-palmas-pittsburgh,Las Palmas,319
+428,"The Hill District
+Pittsburgh, PA 15219
+(412) 509-7490",Pittsburgh,4,2217,5.0,https://www.yelp.com/biz/newman-and-marleys-pittsburgh,Newman & Marleys,519
+429,"6058 Dougherty Rd
+Dublin, CA 94568
+(925) 829-6200",Pleasanton,1884,439,4.0,https://www.yelp.com/biz/denicas-real-food-kitchen-dublin,Denica’s Real Food Kitchen,272
+430,"4640 Tassajara Rd
+Dublin, CA 94568
+(925) 875-1600",Pleasanton,452,439,3.5,https://www.yelp.com/biz/amicis-east-coast-pizzeria-dublin,Amici’s East Coast Pizzeria,33
+431,"1989 Santa Rita Rd
+Pleasanton, CA 94566
+(925) 417-0408",Pleasanton,518,439,4.0,https://www.yelp.com/biz/fiesta-taco-pleasanton,Fiesta Taco,233
+432,"Alberta Arts District, Concordia, Northeast Portland
+2712 NE Alberta St
+Portland, OR 97211
+(503) 284-7000",Portland,87,3714,4.0,https://www.yelp.com/biz/akasaru-ramen-portland,Akasaru Ramen,626
+433,"Northwest
+2225 NW Wilson St
+Portland, OR 97210
+(503) 885-4058",Portland,18,3714,4.5,https://www.yelp.com/biz/angels-taqueria-portland,Angel’s Taqueria,826
+434,"King, Northeast Portland
+3901 NE Martin Luther King Jr Blvd
+Portland, OR 97212
+(503) 719-7344",Portland,214,3714,4.5,https://www.yelp.com/biz/cedos-falafel-and-gyros-portland,Cedo’s Falafel and Gyros,36
+435,"Pearl District
+1355 NW Everett St
+Portland, OR 97209
+(503) 894-9528",Portland,1032,3714,4.0,https://www.yelp.com/biz/tilt-portland-5,TILT,236
+436,"Buckman, Central Eastside, Southeast Portland
+215 SE 9th Ave
+Portland, OR 97214
+(503) 239-8830",Portland,727,3714,3.5,https://www.yelp.com/biz/biwa-portland-4,Biwa,436
+437,"842 US Hwy 206
+Hillsborough, NJ 08844
+(908) 281-9696",Princeton,58,1496,3.0,https://www.yelp.com/biz/hillsborough-star-diner-hillsborough,Hillsborough Star Diner,698
+438,"310 Klockner Rd
+Hamilton, NJ 08619
+(609) 838-7979",Princeton,41,1496,3.0,https://www.yelp.com/biz/palermos-of-hamilton-hamilton-3,Palermo’s of Hamilton,898
+439,"101 Nassau Park Blvd
+Princeton, NJ 08540
+(609) 987-8404",Princeton,2,1496,2.0,https://www.yelp.com/biz/mcdonalds-princeton-4,McDonald’s,108
+440,"311 Amwell Rd
+Hillsborough, NJ 08844
+(908) 281-1288",Princeton,105,1496,4.0,https://www.yelp.com/biz/the-landing-hillsborough,The Landing,308
+441,"7 Vandeventer Ave
+Princeton, NJ 08542",Princeton,1,1496,4.0,https://www.yelp.com/biz/the-feed-truck-caf%C3%A9-princeton-2,The Feed Truck Café,508
+442,"Federal Hill
+477 Broadway
+Providence, RI 02909
+(401) 434-4435",Providence,67,1422,3.5,https://www.yelp.com/biz/spiritos-restaurant-providence,Spirito’s Restaurant,455
+443,"College Hill
+250 Brook St
+Providence, RI 02906
+(401) 453-1111",Providence,16,1422,4.0,https://www.yelp.com/biz/piezonis-providence,Piezoni’s,655
+444,"46 Putnam Pike
+Johnston, RI 02919
+(401) 231-8111",Providence,58,1422,3.0,https://www.yelp.com/biz/uncle-tonys-pizza-and-pasta-johnston,Uncle Tony’s Pizza and Pasta,855
+445,"1850 Broad St
+Cranston, RI 02905
+(401) 941-3360",Providence,17,1422,4.0,https://www.yelp.com/biz/wai-wai-house-cranston,Wai Wai House,65
+446,"DownCity
+14 Imperial Pl
+Providence, RI 02903
+(401) 751-9164",Providence,325,1422,4.0,https://www.yelp.com/biz/cav-restaurant-providence,CAV Restaurant,265
+447,"Located in Crabtree Valley Mall
+(919) 787-7754",Raleigh,167,1291,3.5,https://www.yelp.com/biz/p-f-changs-raleigh-2,P.F. Chang’s,536
+448,"2810 Hillsborough St
+Raleigh, NC 27607
+(919) 832-6255",Raleigh,26,1291,2.5,https://www.yelp.com/biz/checkers-pizza-and-subs-raleigh-2,Checkers Pizza & Subs,736
+449,"8511 Colonnade Center Dr
+Raleigh, NC 27615
+(919) 861-9300",Raleigh,34,1291,3.0,https://www.yelp.com/biz/panera-bread-raleigh-6,Panera Bread,936
+450,"744 E Chatham St
+Cary, NC 27511
+(919) 948-8475",Raleigh,39,1291,4.0,https://www.yelp.com/biz/mithai-cary,Mithai,146
+451,"111 Seaboard Ave
+Raleigh, NC 27604
+(919) 900-8053",Raleigh,245,1291,4.0,https://www.yelp.com/biz/kimbap-raleigh,Kimbap,346
+452,"Located in Issaquah Commons
+(425) 427-0127",Redmond,282,2525,3.5,https://www.yelp.com/biz/wildfin-american-grill-issaquah-3,WildFin American Grill,574
+453,"University District
+4226 University Way NE
+Seattle, WA 98105
+(206) 633-7867",Redmond,404,2525,4.0,https://www.yelp.com/biz/thanh-vi-seattle-2,Thanh Vi,774
+454,"Located in Soma Towers
+(425) 999-3581",Redmond,120,2525,4.0,https://www.yelp.com/biz/fika-house-kaf%C3%A9-bellevue-3,Fika House Kafé,974
+455,"Capitol Hill
+Located in Chophouse Row
+(206) 755-8606",Redmond,67,2525,3.5,https://www.yelp.com/biz/marmite-seattle,Marmite,184
+456,"Located in Hyatt Regency Bellevue on Seattle's Eastside
+(425) 698-4151",Redmond,198,2525,4.0,https://www.yelp.com/biz/eques-bellevue,Eques,384
+457,"Harbor City
+1206 W Pacific Coast Hwy
+Harbor City, CA 90710
+(310) 517-0445",Redondo Beach,196,2239,4.5,https://www.yelp.com/biz/philipos-pizza-and-pasta-harbor-city,Philipo’s Pizza & Pasta,147
+458,"1238 Hermosa Ave
+Hermosa Beach, CA 90254
+(310) 379-1829",Redondo Beach,447,2239,4.0,https://www.yelp.com/biz/dia-de-campo-hermosa-beach,Dia De Campo,347
+459,"Torrance
+2515 Torrance Blvd
+Torrance, CA 90503
+(310) 613-8919",Redondo Beach,596,2239,4.5,https://www.yelp.com/biz/sushi-n-go-torrance,Sushi N Go,547
+460,"229 Main St
+El Segundo, CA 90245
+(310) 640-0014",Redondo Beach,288,2239,4.0,https://www.yelp.com/biz/havana-sandwich-company-el-segundo,Havana Sandwich Company,747
+461,"15134 S Western Ave
+Gardena, CA 90249
+(310) 327-7070",Redondo Beach,281,2239,3.5,https://www.yelp.com/biz/hwangs-restaurant-gardena,Hwang’s Restaurant,947
+462,"351 W Washington Ave
+Sunnyvale, CA 94087
+(408) 245-4350",Redwood City,1002,3029,4.0,https://www.yelp.com/biz/kabul-afghan-cuisine-sunnyvale-2,Kabul Afghan Cuisine,44
+463,"1754 Laurel St
+San Carlos, CA 94070
+(650) 592-4227",Redwood City,473,3029,4.0,https://www.yelp.com/biz/3-pigs-bbq-san-carlos-3,3 Pigs BBQ,244
+464,"820 Veterans Blvd
+Redwood City, CA 94063
+(650) 261-1377",Redwood City,145,3029,3.5,https://www.yelp.com/biz/chef-chens-redwood-city,Chef Chen’s,444
+465,"811 Cherry Ave
+San Bruno, CA 94066
+(650) 952-3189",Redwood City,135,3029,4.0,https://www.yelp.com/biz/hashes-and-brews-san-bruno,Hashes & Brews,644
+466,"2855 Middlefield Rd
+Redwood City, CA 94063",Redwood City,11,3029,4.0,https://www.yelp.com/biz/catrinas-taqueria-redwood-city-2,Catrinas Taqueria,844
+467,"Sparks
+380 Freeport Blvd
+Sparks, NV 89431
+(775) 359-1990",Reno,1,1011,3.0,https://www.yelp.com/biz/on-street-grill-sparks,On Street Grill,126
+468,"475 S Arlington Ave
+Reno, NV 89501
+(775) 348-7481",Reno,381,1011,4.0,https://www.yelp.com/biz/the-brewers-cabinet-reno,The Brewer’s Cabinet,326
+469,"3981 S McCarran Blvd
+Reno, NV 89502
+(775) 828-2441",Reno,75,1011,4.0,https://www.yelp.com/biz/juicys-giant-hamburgers-reno-2,Juicy’s Giant Hamburgers,526
+470,"Located in Peppermill Reno
+(775) 826-2121",Reno,22,1011,2.5,https://www.yelp.com/biz/cafe-espresso-reno,Cafe Espresso,726
+471,"Reno, NV",Reno,0,1011,-1.0,https://www.yelp.com/biz/the-reno-meatball-company-reno,The Reno Meatball Company,926
+472,"Downtown
+100 E Cary St
+Richmond, VA 23219
+(804) 643-9736",Richmond,18,1614,3.0,https://www.yelp.com/biz/cary-100-restaurant-and-lounge-richmond,Cary 100 Restaurant & Lounge,97
+473,"The Fan
+411 N Harrison St
+Richmond, VA 23220
+(804) 204-1844",Richmond,146,1614,4.0,https://www.yelp.com/biz/hibachi-box-richmond,Hibachi Box,297
+474,"Dumbarton
+4086 Crockett St
+Richmond, VA 23228
+(804) 612-1891",Richmond,99,1614,4.0,https://www.yelp.com/biz/la-cabana-richmond,La Cabana,497
+475,"Laurel
+8052 W Broad St
+Richmond, VA 23294
+(804) 747-9573",Richmond,88,1614,3.5,https://www.yelp.com/biz/kabuto-japanese-house-of-steaks-richmond,Kabuto Japanese House of Steaks,697
+476,"Mechanicsville
+9502 Chamberlayne Rd
+Mechanicsville, VA 23116
+(804) 746-2666",Richmond,53,1614,4.0,https://www.yelp.com/biz/giovannis-pizza-pasta-and-subs-mechanicsville,Giovanni’s Pizza Pasta & Subs,897
+477,"East Sacramento
+1420 65th St
+Sacramento, CA 95819
+(916) 400-4639",Sacramento,97,2164,3.5,https://www.yelp.com/biz/the-sandwich-spot-sacramento-6,The Sandwich Spot,981
+478,"5595 Hillsdale Blvd
+Sacramento, CA 95842
+(916) 338-1633",Sacramento,80,2164,4.5,https://www.yelp.com/biz/rich-express-chinese-food-sacramento,Rich Express Chinese Food,191
+479,"6471 Stockton Blvd
+Sacramento, CA 95823
+(916) 399-4918",Sacramento,101,2164,4.0,https://www.yelp.com/biz/seafood-house-quan-oc-sacramento-5,Seafood House Quan Oc,391
+480,"Downtown
+1008 J St
+Sacramento, CA 95814
+(916) 448-8922",Sacramento,231,2164,4.0,https://www.yelp.com/biz/kims-vietnamese-sacramento,Kim’s Vietnamese,591
+481,"Midtown, East Sacramento
+3020 H St
+Sacramento, CA 95816
+(916) 321-9321",Sacramento,147,2164,4.5,https://www.yelp.com/biz/tiferet-coffee-house-sacramento-2,Tiferet Coffee House,791
+482,"Tower Grove East
+3212 S Grand Blvd
+Saint Louis, MO 63118
+(314) 932-1034",Saint Louis,98,1994,4.5,https://www.yelp.com/biz/brasilia-saint-louis,Brasilia,322
+483,"11423 Olive Blvd
+St. Louis, MO 63141
+(314) 274-8046",Saint Louis,158,1994,4.5,https://www.yelp.com/biz/nudo-house-stl-st-louis,Nudo House STL,522
+484,"740 Demun Ave
+Clayton, MO 63105
+(314) 725-0322",Saint Louis,174,1994,4.0,https://www.yelp.com/biz/demun-oyster-bar-clayton,Demun Oyster Bar,722
+485,"Bevo Mill
+4561 Gravois Ave
+St. Louis, MO 63116
+(314) 282-0772",Saint Louis,62,1994,3.0,https://www.yelp.com/biz/mariscos-el-gato-st-louis,Mariscos El Gato,922
+486,"Downtown
+Saint Louis, MO",Saint Louis,1,1994,5.0,https://www.yelp.com/biz/finger-foodies-saint-louis,Finger Foodies,132
+487,"Highland
+2014 Ford Pkwy
+Saint Paul, MN 55116
+(651) 698-7522",Saint Paul,16,1697,2.5,https://www.yelp.com/biz/leeann-chin-cuisine-saint-paul-2,Leeann Chin Cuisine,164
+488,"Midway
+333 University Ave W
+Saint Paul, MN 55103
+(651) 224-4300",Saint Paul,130,1697,3.5,https://www.yelp.com/biz/bangkok-thai-deli-saint-paul-2,Bangkok Thai Deli,364
+489,"3200 E 81st St
+Bloomington, MN 55425
+(952) 922-1234",Saint Paul,59,1697,4.0,https://www.yelp.com/biz/urbana-craeft-kitchen-bloomington,Urbana Craeft Kitchen,564
+490,"Midway
+1464 1/2 University Ave W
+Saint Paul, MN 55104
+(651) 646-1091",Saint Paul,12,1697,3.5,https://www.yelp.com/biz/golden-gate-caf%C3%A9-saint-paul-2,Golden Gate Café,764
+491,"Downtown St. Paul
+401 Robert St N
+Saint Paul, MN 55101
+(651) 292-8686",Saint Paul,7,1697,4.5,https://www.yelp.com/biz/caribou-coffee-saint-paul-14,Caribou Coffee,964
+492,"831 Lancaster Dr NE
+Salem, OR 97301
+(503) 779-1099",Salem,0,653,-1.0,https://www.yelp.com/biz/pizza-schmizza-salem,Pizza Schmizza,128
+493,"3301 Market St NE
+Salem, OR 97301
+(503) 370-7997",Salem,38,653,3.5,https://www.yelp.com/biz/willamette-valley-grill-salem-2,Willamette Valley Grill,328
+494,"5005 Commercial St SE
+Salem, OR 97302
+(503) 581-9475",Salem,48,653,2.0,https://www.yelp.com/biz/sharis-cafe-and-pies-salem,Shari’s Cafe & Pies,528
+495,"4020 Commercial St SE
+Salem, OR 97302
+(503) 581-3683",Salem,8,653,2.5,https://www.yelp.com/biz/mcdonalds-salem-9,McDonald’s,75
+496,"1830 W 3500th S
+Salt Lake City, UT 84119
+(801) 972-5807",Salt Lake City,24,1728,4.0,https://www.yelp.com/biz/casa-peru-salt-lake-city,Casa Peru,436
+497,"East Central, Salt Lake City
+Salt Lake City, UT 84105
+(801) 828-7663",Salt Lake City,7,1728,5.0,https://www.yelp.com/biz/urban-press-truck-salt-lake-city,Urban Press Truck,636
+498,"Downtown, Salt Lake City
+250 W 500th S
+Salt Lake City, UT 84101
+(801) 355-1210",Salt Lake City,64,1728,2.0,https://www.yelp.com/biz/dennys-salt-lake-city-4,Denny’s,836
+499,"1824 W 3500th S
+West Valley City, UT 84119
+(801) 908-5167",Salt Lake City,27,1728,4.0,https://www.yelp.com/biz/la-palapa-mexican-restaurant-west-valley-city,La Palapa Mexican Restaurant,46
+500,"Salt Lake City, Poplar Grove
+55 N Redwood Rd
+Salt Lake City, UT 84116
+(801) 532-2689",Salt Lake City,27,1728,5.0,https://www.yelp.com/biz/the-official-that-sandwich-shop-salt-lake-city,The Official That Sandwich Shop,246
+501,"751 N General McMullen Dr
+San Antonio, TX 78228
+(210) 437-4013",San Antonio,15,2618,4.0,https://www.yelp.com/biz/nachos-red-dragon-chinese-restaurant-san-antonio,Nacho’s Red Dragon Chinese Restaurant,661
+502,"7701 Broadway St
+San Antonio, TX 78209
+(210) 805-8646",San Antonio,233,2618,4.0,https://www.yelp.com/biz/florios-pizza-san-antonio,Florio’s Pizza,861
+503,"Alamo Heights
+4820 Broadway
+San Antonio, TX 78209
+(210) 829-7279",San Antonio,85,2618,3.5,https://www.yelp.com/biz/la-madeleine-san-antonio-4,La Madeleine,71
+504,"7427 San Pedro Ave
+San Antonio, TX 78216
+(210) 277-4770",San Antonio,185,2618,3.5,https://www.yelp.com/biz/shake-shack-san-antonio-6,Shake Shack,271
+505,"Downtown
+909 Broadway St
+San Antonio, TX 78215
+(210) 314-3596",San Antonio,310,2618,4.0,https://www.yelp.com/biz/augies-alamo-city-bbq-steakhouse-san-antonio-2,Augie’s Alamo City BBQ Steakhouse,471
+506,"730 Kains Ave
+San Bruno, CA 94066
+(650) 952-4100",San Bruno,218,586,4.0,https://www.yelp.com/biz/seniores-pizza-san-bruno-4,Seniore’s Pizza,229
+507,"San Francisco International Airport
+Millbrae, CA 94030
+(650) 821-0523",San Bruno,287,586,2.5,https://www.yelp.com/biz/go-bistro-asian-fusion-bar-and-grill-millbrae,Go Bistro Asian Fusion Bar & Grill,429
+508,"Serving Burlingame and the Surrounding Area
+(415) 370-7721",San Bruno,1,586,5.0,https://www.yelp.com/biz/tokyo-meet-hanoi-burlingame-2,Tokyo Meet Hanoi,43
+509,"663 Laurel St
+San Carlos, CA 94070
+(650) 453-3388",San Carlos,94,521,4.0,https://www.yelp.com/biz/the-wine-project-san-carlos,The Wine Project,227
+510,"2610 Broadway St
+Redwood City, CA 94063
+(650) 298-9900",San Carlos,520,521,3.5,https://www.yelp.com/biz/pho-dong-restaurant-redwood-city,Pho Dong Restaurant,427
+511,"1205 Broadway St
+Redwood City, CA 94063
+(408) 515-1770",San Carlos,18,521,2.0,https://www.yelp.com/biz/jack-in-the-box-redwood-city,Jack In The Box,106
+512,"Hillcrest
+111 Washington St
+San Diego, CA 92103
+(619) 291-3341",San Diego,2906,3879,4.5,https://www.yelp.com/biz/bronx-pizza-san-diego,Bronx Pizza,713
+513,"Hillcrest
+3766 5th Ave
+San Diego, CA 92103
+(619) 296-4173",San Diego,1927,3879,4.0,https://www.yelp.com/biz/babycakes-san-diego-2,Babycakes,913
+514,"10435 San Diego Mission Rd
+San Diego, CA 92108
+(619) 584-1836",San Diego,537,3879,4.0,https://www.yelp.com/biz/chiba-japanese-san-diego,Chiba Japanese,123
+515,"Point Loma, Fleetridge
+2907 Shelter Island Dr
+San Diego, CA 92106
+(619) 795-8424",San Diego,902,3879,4.0,https://www.yelp.com/biz/supannee-house-of-thai-san-diego-4,Supannee House of Thai,323
+516,"Hillcrest
+3683 5th Ave
+San Diego, CA 92103
+(619) 795-7890",San Diego,560,3879,4.5,https://www.yelp.com/biz/the-brew-project-san-diego-2,The Brew Project,523
+517,"SoMa
+294 9th St
+San Francisco, CA 94103
+(415) 800-8287",San Francisco,623,4874,4.0,https://www.yelp.com/biz/kama-sushi-san-francisco-10,Kama Sushi,15
+518,"Lower Nob Hill, Union Square
+809 Bush St
+San Francisco, CA 94108
+(415) 885-1325",San Francisco,994,4874,4.5,https://www.yelp.com/biz/tacorea-san-francisco,Tacorea,215
+519,"Inner Richmond
+3854 Geary Blvd
+San Francisco, CA 94118
+(415) 221-0305",San Francisco,1175,4874,4.0,https://www.yelp.com/biz/bella-trattoria-san-francisco,Bella Trattoria,415
+520,"Marina/Cow Hollow
+1449 Lombard St
+San Francisco, CA 94123
+(415) 292-2368",San Francisco,44,4874,4.5,https://www.yelp.com/biz/sugarhill-kitchen-san-francisco,Sugarhill Kitchen,615
+521,"Parkside
+733 Taraval St
+San Francisco, CA 94116
+(415) 564-6400",San Francisco,39,4874,4.0,https://www.yelp.com/biz/odumak-san-francisco-2,Odumak,815
+522,"Fairgrounds
+148 W Alma Ave
+San Jose, CA 95110
+(408) 293-3192",San Jose,29,3260,4.0,https://www.yelp.com/biz/pagoda-house-san-jose,Pagoda House,23
+523,"Downtown
+1411 The Alameda
+San Jose, CA 95126
+(408) 275-1411",San Jose,752,3260,4.0,https://www.yelp.com/biz/zona-rosa-san-jose,Zona Rosa,223
+524,"Santa Teresa
+6177 Santa Teresa Blvd
+San Jose, CA 95123
+(408) 809-7878",San Jose,386,3260,4.0,https://www.yelp.com/biz/oros-thai-restaurant-san-jose,Oros Thai Restaurant,423
+525,"Willow Glen
+895 Willow St
+San Jose, CA 95125
+(408) 993-8730",San Jose,403,3260,4.0,https://www.yelp.com/biz/new-indian-cuisine-san-jose,New Indian Cuisine,623
+526,"North San Jose
+3350 Zanker Rd
+San Jose, CA 95134
+(408) 824-9108",San Jose,725,3260,3.5,https://www.yelp.com/biz/patxis-pizza-san-jose,Patxi’s Pizza,823
+527,"1019 B St
+Hayward, CA 94541
+(510) 221-6055",San Leandro,145,1290,3.5,https://www.yelp.com/biz/the-tree-house-hayward,The Tree House,531
+528,"East Oakland
+5395 Bancroft Ave
+Oakland, CA 94601
+(510) 863-2233",San Leandro,33,1290,4.0,https://www.yelp.com/biz/caffe-nonna-oakland,Caffe Nonna,731
+529,"East Oakland
+Oakland, CA 94601
+(510) 322-0349",San Leandro,3,1290,5.0,https://www.yelp.com/biz/yoyos-mobile-kitchen-oakland,Yoyo’s Mobile Kitchen,931
+530,"2475 Castro Valley Blvd
+Castro Valley, CA 94546
+(510) 581-4380",San Leandro,51,1290,3.0,https://www.yelp.com/biz/wendys-castro-valley,Wendy’s,141
+532,"940 Commercial St
+San Carlos, CA 94070
+(650) 690-5073",San Mateo,5,1173,5.0,https://www.yelp.com/biz/ducks-and-dragons-bakery-san-carlos-2,Ducks And Dragons Bakery,940
+533,"San Mateo, CA 94401
+(888) 482-5426",San Mateo,0,1173,-1.0,https://www.yelp.com/biz/il-fornaio-san-mateo,Il Fornaio,150
+534,"1150 Paloma Ave
+Burlingame, CA 94010
+(650) 558-8800",San Mateo,871,1173,4.0,https://www.yelp.com/biz/shabu-house-burlingame,Shabu House,350
+535,"570 S Norfolk St
+San Mateo, CA 94401
+(650) 347-1228",San Mateo,101,1173,3.0,https://www.yelp.com/biz/golden-wok-san-mateo,Golden Wok,550
+536,"51 Millbrae Ave
+Millbrae, CA 94030
+(650) 692-6666",San Mateo,903,1173,3.0,https://www.yelp.com/biz/hong-kong-flower-lounge-millbrae-2,Hong Kong Flower Lounge,750
+537,"3231 Macdonald Ave
+Richmond, CA 94804
+(510) 233-2502",San Rafael,2,1005,5.0,https://www.yelp.com/biz/el-paraiso-cafe-richmond,El Paraiso Cafe,944
+538,"934 Diablo Ave
+Novato, CA 94945
+(415) 898-5414",San Rafael,17,1005,2.0,https://www.yelp.com/biz/subway-novato-3,Subway,154
+539,"335 San Anselmo Ave
+San Anselmo, CA 94960
+(415) 454-9840",San Rafael,425,1005,4.0,https://www.yelp.com/biz/comforts-san-anselmo,Comforts,354
+540,"775 Redwood Hwy Frontage Rd
+Mill Valley, CA 94941
+(415) 305-8020",San Rafael,12,1005,5.0,https://www.yelp.com/biz/happy-gyros-mill-valley,Happy Gyros,554
+541,"2167 Meeker Ave
+Richmond, CA 94804
+(510) 680-5410",San Rafael,25,1005,3.0,https://www.yelp.com/biz/la-lupita-mexican-eatery-richmond,La Lupita Mexican Eatery,754
+542,"7 E Anapamu St
+Santa Barbara, CA 93101
+(805) 845-7112",Santa Barbara,61,656,3.5,https://www.yelp.com/biz/smithy-kitchen-bar-santa-barbara,Smithy Kitchen + Bar,250
+543,"220 Gray Ave
+Santa Barbara, CA 93101",Santa Barbara,1,656,5.0,https://www.yelp.com/biz/zephyr-bar-b-cue-santa-barbara,Zephyr Bar-B-Cue,450
+544,"5392 Hollister Ave
+Goleta, CA 93111
+(805) 845-2780",Santa Barbara,81,656,3.5,https://www.yelp.com/biz/crushcakes-cafe-and-simply-pies-goleta,Crushcakes Cafe & Simply Pies,650
+545,"574 U C S B Campus
+Santa Barbara, CA 93101
+(805) 968-5878",Santa Barbara,0,656,-1.0,https://www.yelp.com/biz/gaucho-investment-and-management-santa-barbara,Gaucho Investment & Management,194
+546,"5231 Stevens Creek Blvd
+Santa Clara, CA 95051
+(408) 243-0698",Santa Clara,126,2731,3.5,https://www.yelp.com/biz/house-of-bagels-santa-clara-3,House of Bagels,66
+547,"North San Jose
+3205 Edward Ave
+Santa Clara, CA 95054
+(408) 235-2350",Santa Clara,16,2731,5.0,https://www.yelp.com/biz/its-lunch-time-santa-clara,It’s Lunch Time,266
+548,"155 E Maude Ave
+Sunnyvale, CA 94085
+(408) 735-7777",Santa Clara,526,2731,4.0,https://www.yelp.com/biz/gombei-bento-sunnyvale,Gombei Bento,466
+549,"Willow Glen
+1580 Hamilton Ave
+San Jose, CA 95125
+(408) 264-2011",Santa Clara,778,2731,3.5,https://www.yelp.com/biz/dry-creek-grill-san-jose,Dry Creek Grill,666
+550,"373 E Campbell Ave
+Campbell, CA 95008
+(408) 370-0826",Santa Clara,652,2731,4.0,https://www.yelp.com/biz/la-pizzeria-campbell,La Pizzeria,866
+551,"1148 Soquel Ave
+Santa Cruz, CA 95062
+(831) 425-2288",Santa Cruz,1491,457,4.5,https://www.yelp.com/biz/lillians-italian-kitchen-santa-cruz-2,Lillian’s Italian Kitchen,201
+552,"2415 Mission St
+Santa Cruz, CA 95060
+(831) 423-9010",Santa Cruz,199,457,3.5,https://www.yelp.com/biz/upper-crust-pizza-and-pasta-santa-cruz,Upper Crust Pizza & Pasta,401
+553,"Pacific Garden Mall
+Santa Cruz, CA 95060",Santa Cruz,0,457,-1.0,https://www.yelp.com/biz/aqua-blue-restaurant-santa-cruz,Aqua Blue Restaurant,144
+554,"1851 St Michaels Dr
+Santa Fe, NM 87505
+(505) 820-0643",Santa Fe,36,432,4.0,https://www.yelp.com/biz/sunrise-cafe-santa-fe,Sunrise Cafe,353
+555,"8376 Cerrillos Rd
+Santa Fe, NM 87507
+(505) 474-9500",Santa Fe,2,432,5.0,https://www.yelp.com/biz/el-cafe-santa-fe,El Cafe,121
+556,"132 W Water St
+Santa Fe, NM 87501
+(505) 983-1615",Santa Fe,128,432,3.5,https://www.yelp.com/biz/coyote-rooftop-cantina-santa-fe,Coyote Rooftop Cantina,321
+557,"Mar Vista
+3760 S Centinela Ave
+Los Angeles, CA 90066
+(310) 397-4676",Santa Monica,285,1548,4.0,https://www.yelp.com/biz/hannosuke-los-angeles,Hannosuke,832
+558,"Venice
+68 N Venice Blvd
+Venice, CA 90291
+(310) 305-2430",Santa Monica,98,1548,4.5,https://www.yelp.com/biz/bellissimo-venice-venice,Bellissimo Venice,42
+559,"606 Broadway
+Santa Monica, CA 90401
+(310) 393-6633",Santa Monica,240,1548,4.5,https://www.yelp.com/biz/obic%C3%A0-mozzarella-bar-pizza-e-cucina-santa-monica-3,Obicà Mozzarella Bar Pizza e Cucina,242
+560,"2424 Pico Blvd
+Santa Monica, CA 90405
+(310) 581-4201",Santa Monica,13,1548,4.0,https://www.yelp.com/biz/lunetta-dining-room-and-bar-santa-monica-2,Lunetta Dining Room & Bar,442
+561,"2200 Colorado Ave
+Santa Monica, CA 90404
+(424) 433-8050",Santa Monica,6,1548,3.5,https://www.yelp.com/biz/whatsub-santa-monica,WhatSUB,642
+562,"Serving San Bruno and the Surrounding Area
+(415) 935-0696",Santa Rosa,81,818,3.5,https://www.yelp.com/biz/the-boneyard-san-bruno-3,The Boneyard,15
+563,"521 Adams St
+Santa Rosa, CA 95401
+(707) 546-5100",Santa Rosa,960,818,4.0,https://www.yelp.com/biz/starks-steak-and-seafood-santa-rosa-17,Stark’s,215
+564,"791 Montecito Ctr
+Santa Rosa, CA 95409
+(707) 538-2642",Santa Rosa,68,818,4.0,https://www.yelp.com/biz/taqueria-santa-rosa-santa-rosa-3,Taqueria Santa Rosa,415
+565,"100 Brown St
+Sebastopol, CA 95472
+(707) 824-4800",Santa Rosa,161,818,4.0,https://www.yelp.com/biz/king-falafel-sebastopol,King Falafel,615
+567,"1 Blackfield Dr
+Tiburon, CA 94920
+(415) 388-7800",Sausalito,61,144,4.0,https://www.yelp.com/biz/foodniks-tiburon,Foodniks,3
+568,"606 Abercorn St
+Savannah, GA 31401
+(912) 239-6950",Savannah,86,932,4.0,https://www.yelp.com/biz/cuoco-pazzo-cucina-italiana-savannah-2,Cuoco Pazzo Cucina Italiana,269
+569,"7084 Hodgson Memorial Dr
+Savannah, GA 31406
+(912) 355-8876",Savannah,17,932,4.0,https://www.yelp.com/biz/yohane-savannah,Yohane,469
+570,"246 W Broughton St
+Savannah, GA 31401
+(912) 236-4494",Savannah,6,932,4.0,https://www.yelp.com/biz/mcdonalds-savannah-26,McDonald’s,669
+571,"601 Martin Luther King Jr Blvd
+Savannah, GA 31401
+(912) 234-9906",Savannah,7,932,1.5,https://www.yelp.com/biz/burger-king-savannah-4,Burger King,869
+572,"114 Woodpecker Trl
+Guyton, GA 31312
+(912) 659-1183",Savannah,0,932,-1.0,https://www.yelp.com/biz/always-good-bbq-guyton,Always Good BBQ,137
+573,"55 E Irving Park Rd
+Roselle, IL 60172
+(630) 582-1900",Schaumburg,163,2548,4.0,https://www.yelp.com/biz/italian-pizza-kitchen-roselle,Italian Pizza Kitchen,509
+574,"5N105 Illinois 53
+Itasca, IL 60143
+(630) 285-9200",Schaumburg,47,2548,4.0,https://www.yelp.com/biz/demarcos-restaurant-itasca,DeMarco’s Restaurant,709
+575,"800 S Il Route 59
+Bartlett, IL 60103
+(630) 580-0168",Schaumburg,138,2548,3.5,https://www.yelp.com/biz/tokyo-steakhouse-ii-bartlett,Tokyo Steakhouse II,909
+576,"142 E Lake St
+Bloomingdale, IL 60108
+(630) 295-9888",Schaumburg,83,2548,3.5,https://www.yelp.com/biz/bentleys-pancake-house-bloomingdale,Bentley’s Pancake House,119
+577,"225 W Golf Rd
+Schaumburg, IL 60195
+(847) 380-2658",Schaumburg,224,2548,3.5,https://www.yelp.com/biz/thai-garden-schaumburg,Thai Garden,319
+578,"7120 E Becker Ln
+Scottsdale, AZ 85254
+(480) 443-7162",Scottsdale,1,790,5.0,https://www.yelp.com/biz/centro-paninoteca-kitchen-scottsdale,Centro Paninoteca Kitchen,681
+579,"15279 N Scottsdale Rd
+Scottsdale, AZ 85260",Scottsdale,0,790,-1.0,https://www.yelp.com/biz/tks-bar-and-grill-scottsdale,TK’s Bar & Grill,91
+580,"7366 E Shea Blvd
+Scottsdale, AZ 85260
+(480) 596-2987",Scottsdale,201,790,4.5,https://www.yelp.com/biz/coconuts-fish-cafe-scottsdale-3,Coconut’s Fish Cafe,291
+581,"14884 North Pima Rd
+Scottsdale, AZ 85260
+(480) 991-4976",Scottsdale,30,790,3.5,https://www.yelp.com/biz/the-simple-greek-scottsdale-3,The Simple Greek,491
+582,"First Hill
+1201 10th Ave
+Seattle, WA 98122
+(206) 790-0967",Seattle,39,3576,4.5,https://www.yelp.com/biz/slab-sandwiches-pie-seattle,Slab Sandwiches + Pie,36
+583,"Magnolia
+Located in Elliott Bay Marina
+(206) 285-1000",Seattle,1157,3576,4.0,https://www.yelp.com/biz/palisade-seattle,Palisade,236
+584,"Belltown
+Located in Belltown Court Condos
+(206) 443-9844",Seattle,1778,3576,4.5,https://www.yelp.com/biz/shiros-seattle,Shiro’s,436
+585,"Alki
+2800 Alki Ave SW
+Seattle, WA 98116
+(206) 938-4112",Seattle,213,3576,4.0,https://www.yelp.com/biz/sunfish-seattle,Sunfish,636
+586,"Junction, Fairmount Park
+4752 California Ave SW
+Seattle, WA 98116
+(425) 417-6797",Seattle,148,3576,4.0,https://www.yelp.com/biz/great-american-diner-and-bar-seattle-2,Great American Diner & Bar,836
+587,"Edgewater
+6120 N Broadway St
+Chicago, IL 60660
+(773) 338-6100",Skokie,667,2142,4.0,https://www.yelp.com/biz/ethiopian-diamond-chicago,Ethiopian Diamond,952
+588,"2132 Waukegan Rd
+Glenview, IL 60025
+(847) 724-7440",Skokie,84,2142,3.5,https://www.yelp.com/biz/valley-lodge-restaurant-glenview,Valley Lodge Restaurant,162
+589,"5300 Old Orchard Rd
+Skokie, IL 60077
+(847) 470-8600",Skokie,1,2142,5.0,https://www.yelp.com/biz/life-cafe-skokie,Life Cafe,362
+590,"650 N Northwest Hwy
+Park Ridge, IL 60068
+(847) 653-6282",Skokie,115,2142,4.0,https://www.yelp.com/biz/cafe-orchid-park-ridge,Cafe Orchid,562
+591,"West Rogers Park
+3100 W Devon Ave
+Chicago, IL 60659
+(773) 942-7541",Skokie,126,2142,4.0,https://www.yelp.com/biz/taza-bakery-chicago,Taza Bakery,762
+592,"321 Boston Ave
+Medford, MA 02155
+(781) 219-3269",Somerville,60,4123,4.0,https://www.yelp.com/biz/tasty-cafe-on-the-hill-medford,Tasty Cafe on the Hill,850
+593,"Downtown
+26 Temple Pl
+Boston, MA 02111
+(617) 292-2626",Somerville,146,4123,4.0,https://www.yelp.com/biz/cafe-26-boston-2,Cafe 26,60
+594,"257 Washington St
+Somerville, MA 02143
+(617) 718-0958",Somerville,148,4123,4.0,https://www.yelp.com/biz/juliet-somerville,Juliet,260
+595,"South Boston
+28 W Broadway
+Boston, MA 02127
+(617) 315-7829",Somerville,87,4123,4.5,https://www.yelp.com/biz/the-maiden-boston,The Maiden,460
+596,"Teele Square
+1159 Broadway
+Somerville, MA 02144
+(617) 718-0211",Somerville,8,4123,4.5,https://www.yelp.com/biz/knight-moves-cafe-somerville,Knight Moves Cafe,660
+597,"19315 Sonoma Hwy
+Sonoma, CA 95476
+(707) 933-9496",Sonoma,0,121,-1.0,https://www.yelp.com/biz/mi-ranchito-sonoma,Mi Ranchito,60
+598,"3160 US Hwy 50
+South Lake Tahoe, CA 96150
+(530) 577-2364",South Lake Tahoe,87,238,4.0,https://www.yelp.com/biz/bob-dog-pizza-south-lake-tahoe-4,Bob Dog Pizza,33
+599,"900 Ski Run Blvd
+South Lake Tahoe, CA 96150
+(530) 542-2600",South Lake Tahoe,899,238,3.5,https://www.yelp.com/biz/riva-grill-on-the-lake-south-lake-tahoe,Riva Grill On the Lake,233
+600,"1009 N Wilson Way
+Stockton, CA 95205
+(209) 948-2573",Stockton,11,713,1.5,https://www.yelp.com/biz/mcdonalds-stockton-11,McDonald’s,84
+601,"501 N Lincoln Ctr
+Stockton, CA 95207
+(209) 477-6133",Stockton,430,713,3.5,https://www.yelp.com/biz/papapavlos-bistro-and-bar-stockton,Papapavlo’s Bistro & Bar,284
+602,"123 Lincoln Ctr
+Stockton, CA 95207
+(209) 951-2284",Stockton,117,713,3.5,https://www.yelp.com/biz/noahs-bagels-stockton,Noah’s Bagels,484
+603,"4663 Pacific Ave
+Stockton, CA 95207
+(209) 473-4744",Stockton,11,713,3.0,https://www.yelp.com/biz/subway-stockton-25,Subway,684
+604,"Wilshire Center, Koreatown
+3450 W 6th St
+Los Angeles, CA 90020
+(213) 674-7292",Studio City,22,5164,5.0,https://www.yelp.com/biz/king-kong-roll-n-teriyaki-los-angeles-3,King Kong Roll N Teriyaki,59
+605,"Studio City
+11943 Ventura Blvd
+Studio City, CA 91604
+(818) 506-9015",Studio City,704,5164,4.5,https://www.yelp.com/biz/hope-studio-city,HOPE,259
+606,"Sherman Oaks
+15013 Ventura Blvd
+Los Angeles, CA 91403
+(818) 990-1791",Studio City,90,5164,4.0,https://www.yelp.com/biz/modo-mio-cucina-rustica-los-angeles,Modo Mio Cucina Rustica,459
+607,"Sherman Oaks
+14622 Ventura Blvd
+Sherman Oaks, CA 91403
+(818) 788-0330",Studio City,1087,5164,4.0,https://www.yelp.com/biz/on-the-thirty-sherman-oaks,On The Thirty,659
+608,"Burbank
+161 E Orange Grove Ave
+Burbank, CA 91502
+(818) 558-1199",Studio City,784,5164,4.0,https://www.yelp.com/biz/flavor-of-india-burbank,Flavor of India,859
+609,"2080 W El Camino Real
+Mountain View, CA 94040
+(650) 669-2435",Sunnyvale,44,1830,4.5,https://www.yelp.com/biz/super-tacos-el-conrro-mountain-view-4,Super Tacos El Conrro,990
+610,"1401 N Shoreline Blvd
+Mountain View, CA 94043
+(650) 810-1032",Sunnyvale,14,1830,3.5,https://www.yelp.com/biz/cloud-bistro-mountain-view-3,Cloud Bistro,200
+611,"10815 N Wolfe Rd
+Cupertino, CA 95014
+(408) 320-2323",Sunnyvale,132,1830,4.0,https://www.yelp.com/biz/gogigo-korean-bbq-cupertino,GOGIGO Korean BBQ,400
+612,"383 Castro St
+Mountain View, CA 94041
+(650) 395-8209",Sunnyvale,692,1830,3.5,https://www.yelp.com/biz/bierhaus-mountain-view,Bierhaus,600
+613,"2074 Vallco Fashion Park
+Cupertino, CA 95014
+(408) 253-1221",Sunnyvale,982,1830,3.0,https://www.yelp.com/biz/benihana-cupertino,Benihana,800
+614,"202 N Dale Mabry Hwy
+Tampa, FL 33609
+(813) 350-0500",Tampa,81,2164,3.5,https://www.yelp.com/biz/don-pan-tampa-international-bakery-tampa,Don Pan Tampa International Bakery,133
+615,"Located in Armature Works
+(813) 693-5473",Tampa,13,2164,3.5,https://www.yelp.com/biz/butcher-n-barbeque-tampa-3,Butcher ‘n’ Barbeque,333
+616,"Ybor City
+1930 E 7th Ave
+Tampa, FL 33605
+(813) 304-2041",Tampa,101,2164,4.0,https://www.yelp.com/biz/sundays-delicatessen-tampa,Sunday’s Delicatessen,533
+617,"Channelside
+615 Channelside Dr
+Tampa, FL 33602
+(813) 228-6973",Tampa,195,2164,3.5,https://www.yelp.com/biz/precinct-pizza-tampa,Precinct Pizza,733
+618,"International
+Located in International Plaza and Bay Street
+(813) 353-8155",Tampa,130,2164,4.0,https://www.yelp.com/biz/california-pizza-kitchen-at-international-plaza-tampa,California Pizza Kitchen at International Plaza,933
+619,"3134 S Mill Ave
+Tempe, AZ 85282
+(480) 967-3134",Tempe,10,4680,4.5,https://www.yelp.com/biz/caribbean-palm-tempe-tempe-2,Caribbean Palm Tempe,298
+620,"2740 S Alma School Rd
+Mesa, AZ 85210
+(480) 656-4118",Tempe,167,4680,4.5,https://www.yelp.com/biz/soda-bun-thai-food-mesa,Soda Bun Thai Food,498
+621,"3401 E Wood St
+Phoenix, AZ 85040
+(602) 565-9663",Tempe,19,4680,4.0,https://www.yelp.com/biz/cookin-on-wood-phoenix,Cookin On Wood,698
+622,"6000 E Camelback Rd
+Scottsdale, AZ 85251
+(480) 214-8000",Tempe,268,4680,4.0,https://www.yelp.com/biz/j-and-g-steakhouse-scottsdale,J & G Steakhouse,898
+623,"333 N Central Ave
+Phoenix, AZ 85004
+(602) 429-3600",Tempe,220,4680,4.0,https://www.yelp.com/biz/province-urban-kitchen-and-bar-phoenix,Province Urban Kitchen & Bar,108
+624,"Harbor Gateway
+1631 W Carson St
+Torrance, CA 90501
+(310) 782-8988",Torrance,219,7059,4.0,https://www.yelp.com/biz/ju-ju-shine-torrance,Ju Ju Shine,370
+625,"2301 Rosecrans Ave
+El Segundo, CA 90245
+(310) 643-6911",Torrance,1178,7059,4.0,https://www.yelp.com/biz/flemings-prime-steakhouse-and-wine-bar-el-segundo-el-segundo,Fleming’s Prime Steakhouse & Wine Bar - El Segundo,570
+626,"1555 W Willow St
+Long Beach, CA 90810
+(562) 427-4800",Torrance,203,7059,4.5,https://www.yelp.com/biz/twins-smoke-house-bbq-long-beach,Twins Smoke House BBQ,770
+627,"San Pedro
+28150 S Western Ave
+San Pedro, CA 90732
+(310) 831-7000",Torrance,386,7059,4.0,https://www.yelp.com/biz/jasmine-hana-san-pedro-2,Jasmine Hana,970
+628,"3215 Carson St
+Lakewood, CA 90712
+(562) 421-8917",Torrance,2062,7059,4.5,https://www.yelp.com/biz/i-luv-sushi-lakewood,I Luv Sushi,180
+629,"Sewell
+5601 E Broadway Blvd
+Tucson, AZ 85711
+(520) 514-0351",Tucson,33,1504,2.5,https://www.yelp.com/biz/el-pollo-loco-tucson-3,El Pollo Loco,869
+630,"St Cyrils
+4774 E Grant Rd
+Tucson, AZ 85712
+(520) 326-1009",Tucson,49,1504,3.5,https://www.yelp.com/biz/chipotle-mexican-grill-tucson-3,Chipotle Mexican Grill,79
+631,"Campbell-Grant
+2574 N Campbell Ave
+Tucson, AZ 85719
+(520) 795-2665",Tucson,292,1504,4.5,https://www.yelp.com/biz/frankies-south-philadelphia-cheesesteak-tucson,Frankie’s South Philadelphia Cheesesteak,279
+632,"Sam Hughes
+2707 E Broadway Blvd
+Tucson, AZ 85716
+(520) 321-1860",Tucson,395,1504,4.0,https://www.yelp.com/biz/roccos-little-chicago-tucson,Rocco’s Little Chicago,479
+633,"6761 E Tanque Verde Rd
+Tucson, AZ 85715
+(520) 298-2233",Tucson,61,1504,3.5,https://www.yelp.com/biz/bistro-44-tucson,Bistro 44,679
+634,"39407 Fremont Blvd
+Fremont, CA 94538
+(510) 500-5672",Union City,142,2967,4.0,https://www.yelp.com/biz/bongos-fremont,Bongo’s,8
+635,"32216 Dyer St
+Union City, CA 94587
+(510) 768-7333",Union City,96,2967,4.0,https://www.yelp.com/biz/pacific-pourhouse-union-city,Pacific PourHouse,208
+636,"579 Floresta Blvd
+San Leandro, CA 94578
+(510) 878-1887",Union City,263,2967,4.5,https://www.yelp.com/biz/hawaiian-poke-bowl-san-leandro,Hawaiian Poke Bowl,408
+637,"2660 Broadway St
+Redwood City, CA 94063
+(650) 568-9789",Union City,605,2967,3.5,https://www.yelp.com/biz/i-dumpling-redwood-city,I Dumpling,608
+638,"2285 W Tennyson Rd
+Hayward, CA 94545
+(510) 783-1393",Union City,141,2967,4.0,https://www.yelp.com/biz/dairy-belle-freeze-hayward-2,Dairy Belle Freeze,808
+639,"2901 Ocean Park Blvd
+Santa Monica, CA 90405
+(310) 452-4400",Venice,284,3323,4.0,https://www.yelp.com/biz/society-kitchen-santa-monica,Society Kitchen,413
+640,"Del Rey
+4700 Inglewood Ave
+Los Angeles, CA 90230
+(310) 503-2062",Venice,93,3323,5.0,https://www.yelp.com/biz/el-taco-toro-los-angeles,El Taco Toro,613
+641,"Culver City
+6000 Sepulveda Blvd
+Culver City, CA 90230
+(310) 390-5600",Venice,161,3323,3.5,https://www.yelp.com/biz/stone-oven-culver-city,Stone Oven,813
+642,"Venice
+205 Ocean Front Walk
+Venice, CA 90291
+(310) 392-0322",Venice,2,3323,5.0,https://www.yelp.com/biz/the-waterfront-venice-venice-5,The Waterfront Venice,23
+643,"Venice
+3100 Washington Blvd
+Venice, CA 90291
+(310) 823-7526",Venice,2574,3323,4.0,https://www.yelp.com/biz/26-beach-restaurant-venice,26 Beach Restaurant,223
+644,"1542 Newell Ave
+Walnut Creek, CA 94596
+(925) 933-0115",Walnut Creek,293,2092,3.0,https://www.yelp.com/biz/oishi-sushi-and-grill-walnut-creek,Oishi Sushi & Grill,514
+645,"3141 Crow Canyon Rd
+San Ramon, CA 94583
+(925) 328-0525",Walnut Creek,21,2092,4.0,https://www.yelp.com/biz/pizza-my-heart-san-ramon,Pizza My Heart,714
+646,"14 Canyon Lake Dr
+Port Costa, CA 94569
+(510) 787-1135",Walnut Creek,2,2092,4.5,https://www.yelp.com/biz/the-dram-shop-port-costa,The Dram Shop,914
+647,"1500 Monument Blvd
+Oakley, CA 94561
+(925) 798-3155",Walnut Creek,20,2092,3.0,https://www.yelp.com/biz/pancho-villa-oakley-2,Pancho Villa,124
+648,"2865 Ygnacio Valley Rd
+Walnut Creek, CA 94598
+(925) 947-4886",Walnut Creek,313,2092,4.0,https://www.yelp.com/biz/toyo-sushi-walnut-creek,Toyo Sushi,324
+649,"1308 G St NW
+Washington, DC 20005
+(202) 809-5565","Washington, DC",897,8101,3.5,https://www.yelp.com/biz/astro-doughnuts-and-fried-chicken-washington,Astro Doughnuts & Fried Chicken,678
+650,"Capitol Hill
+501 8th St SE
+Washington, DC 20003
+(202) 543-1445","Washington, DC",70,8101,4.0,https://www.yelp.com/biz/ophelias-fish-house-washington-3,Ophelia’s Fish House,878
+651,"5331 Baltimore Ave
+Hyattsville, MD 20781
+(301) 779-2787","Washington, DC",808,8101,4.0,https://www.yelp.com/biz/busboys-and-poets-hyattsville-hyattsville-2,Busboys and Poets - Hyattsville,88
+652,"651 Florida Ave NW
+Washington, DC 20001
+(202) 986-2079","Washington, DC",410,8101,3.5,https://www.yelp.com/biz/halfsmoke-washington,HalfSmoke,288
+653,"Columbia Heights
+1424 Park Rd NW
+Washington, DC 20010
+(202) 813-3489","Washington, DC",466,8101,4.5,https://www.yelp.com/biz/mi-cuba-cafe-washington,Mi Cuba Cafe,488
+654,"903 N La Cienega Blvd
+West Hollywood, CA 90069
+(310) 657-5711",West Hollywood,1046,6185,4.0,https://www.yelp.com/biz/nobu-west-hollywood-3,Nobu,224
+655,"Toluca Lake
+10151 Riverside Dr
+Toluca Lake, CA 91602
+(818) 762-4860",West Hollywood,624,6185,4.0,https://www.yelp.com/biz/malbec-argentinean-cuisine-toluca-lake,Malbec Argentinean Cuisine,424
+656,"Mid-Wilshire
+1048 S La Brea Ave
+Los Angeles, CA 90019
+(323) 938-8226",West Hollywood,1187,6185,3.5,https://www.yelp.com/biz/trejos-tacos-los-angeles-3,Trejo’s Tacos,624
+657,"Koreatown
+3525 W 3rd St
+Los Angeles, CA 90020
+(213) 389-3899",West Hollywood,334,6185,4.5,https://www.yelp.com/biz/dumpling-house-los-angeles-2,Dumpling House,824
+658,"Hollywood
+7300 W Sunset Blvd
+Los Angeles, CA 90046
+(323) 512-6077",West Hollywood,665,6185,3.5,https://www.yelp.com/biz/urban-ramen-los-angeles-2,Urban Ramen,34
+659,"9071 Santa Monica Blvd
+West Hollywood, CA 90069
+(310) 275-9444",West Los Angeles,692,1703,3.5,https://www.yelp.com/biz/dan-tanas-west-hollywood,Dan Tana’s,806
+660,"Culver City
+3835 Main St
+Culver City, CA 90232
+(310) 559-5222",West Los Angeles,157,1703,3.5,https://www.yelp.com/biz/signature-burger-culver-city-2,Signature Burger,16
+661,"West Los Angeles
+2321 Westwood Blvd
+Los Angeles, CA 90064
+(310) 475-4521",West Los Angeles,155,1703,4.0,https://www.yelp.com/biz/matteos-los-angeles,Matteo’s,216
+662,"West Los Angeles
+11078 Santa Monica Blvd
+Los Angeles, CA 90025
+(310) 878-2210",West Los Angeles,232,1703,3.5,https://www.yelp.com/biz/berris-pizza-los-angeles-2,Berri’s Pizza,416
+663,"Culver City
+9400 Culver Blvd
+Culver City, CA 90232
+(310) 558-9400",West Los Angeles,586,1703,4.0,https://www.yelp.com/biz/the-culver-hotel-bar-and-restaurant-culver-city-2,The Culver Hotel Bar & Restaurant,616
+664,"724 Main St
+Susanville, CA 96130
+(530) 257-7666",Westwood,103,72,4.5,https://www.yelp.com/biz/pioneer-saloon-susanville,Pioneer Saloon,2
+665,"6528 Yount St
+Yountville, CA 94599
+(707) 204-6030",Yountville,252,31,4.0,https://www.yelp.com/biz/lucy-restaurant-and-bar-yountville-2,Lucy Restaurant and Bar,26
