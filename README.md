@@ -12,5 +12,5 @@ Presentation: https://www.slideshare.net/YaoYao44/yelps-review-filtering-algorit
 
 Paper: 
 
-![2ndplace](https://github.com/post2web/capstone/blob/master/2ndplace1.jpeg)
+![PrizePicture](https://github.com/post2web/capstone/blob/master/PrizePicture.jpeg)
 2nd Place in Best Capstone Poster 
