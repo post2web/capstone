@@ -16,6 +16,6 @@ Poster: https://www.slideshare.net/YaoYao44/yelps-review-filtering-algorithm-pos
 
 Presentation: https://www.slideshare.net/YaoYao44/yelps-review-filtering-algorithm-powerpoint
 
-Paper: https://scholar.smu.edu/cgi/preview.cgi?article=1029&amp=&context=datasciencereview
+Paper: https://github.com/post2web/capstone/blob/master/project/Yelp's%20Review%20Filtering%20Algorithm.pdf
 
 ![PrizePicture](https://github.com/post2web/capstone/blob/master/PrizePicture.jpeg)
